@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2026-02-11T22:56:25.052398",
+  "exportedAt": "2026-02-12T00:26:49.023731",
   "prizeTypes": [
     {
       "id": 1,
@@ -399,6 +399,10 @@
       "description": ""
     }
   ],
+  "config": {
+    "paperExpectedTime": "1:00 PM",
+    "onlineExpectedTime": "5:00 PM"
+  },
   "draws": [
     {
       "date": "2026",
