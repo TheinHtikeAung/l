@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2026-02-12T00:26:49.023731",
+  "exportedAt": "2026-02-12T01:04:45.388250",
   "prizeTypes": [
     {
       "id": 1,
@@ -729,7 +729,7 @@
           ],
           "flagged": false,
           "rawLabel": "Jackpot (Grand Prize)",
-          "customTitle": "Second Prize (2000 Lakhs)"
+          "customTitle": "Jackpot ဆုမဲစနစ် ကျပ်သိန်း(၂၀၀၀)ဆု"
         },
         {
           "prizeId": 4,
@@ -741,7 +741,7 @@
           ],
           "flagged": false,
           "rawLabel": "500 Lakhs (2 winners)",
-          "customTitle": "4th Prize (500 Lakhs)"
+          "customTitle": "ဆုတစ်ဆုချင်း ကျပ်သိန်း(၅၀၀)ဆု"
         },
         {
           "prizeId": 6,
@@ -755,7 +755,7 @@
           ],
           "flagged": false,
           "rawLabel": "200 Lakhs (4 winners)",
-          "customTitle": "6th Prize (200 Lakhs)"
+          "customTitle": "ဆုတစ်ဆုချင်း ကျပ်သိန်း(၂၀၀)ဆု"
         },
         {
           "prizeId": 7,
@@ -769,7 +769,7 @@
           ],
           "flagged": false,
           "rawLabel": "100 Lakhs (4 winners)",
-          "customTitle": "7th Prize (100 Lakhs)"
+          "customTitle": "ဆုတစ်ဆုချင်း ကျပ်သိန်း(၁၀၀)ဆုများ"
         },
         {
           "prizeId": 8,
@@ -787,7 +787,7 @@
           ],
           "flagged": false,
           "rawLabel": "50 Lakhs (8 winners)",
-          "customTitle": "8th Prize (50 Lakhs)"
+          "customTitle": "ဆုတစ်ဆုချင်း ကျပ်သိန်း(၅၀)ဆုများ"
         },
         {
           "prizeId": 25,
@@ -806,7 +806,7 @@
           ],
           "flagged": false,
           "rawLabel": "20 Lakhs (9 winners)",
-          "customTitle": "Consolation 2 Lakhs (20 Lakhs)"
+          "customTitle": "ဆုတစ်ဆုချင်း ကျပ်(၂၀)သိန်းဆုများ"
         },
         {
           "prizeId": 15,
@@ -826,7 +826,7 @@
           ],
           "flagged": false,
           "rawLabel": "10 Lakhs (10 winners)",
-          "customTitle": "10th Prize (10 Lakhs)"
+          "customTitle": "ဆုတစ်ဆုချင်း ကျပ်(၁၀)သိန်းဆုများ"
         },
         {
           "prizeId": 11,
@@ -840,7 +840,7 @@
           ],
           "flagged": false,
           "rawLabel": "First 4 Digits Match (2 Lakhs)",
-          "customTitle": "First 4 Digits Match (2 Lakhs)"
+          "customTitle": "၀ေ၀ေဆာဆာပဒေသာကျပ်(၂)သိန်းဆုများ"
         },
         {
           "prizeId": 12,
@@ -856,7 +856,7 @@
           ],
           "flagged": false,
           "rawLabel": "First 3 Digits Match (1 Lakhs)",
-          "customTitle": "First 3 Digits Match (1 Lakhs)"
+          "customTitle": "၀ေ၀ေဆာဆာပဒေသာကျပ်(၁)သိန်းဆုများ"
         },
         {
           "prizeId": 13,
@@ -872,7 +872,7 @@
           ],
           "flagged": false,
           "rawLabel": "First 2 Digits Match (50K)",
-          "customTitle": "First 2 Digits Match (1 Lakhs)"
+          "customTitle": "၀ေ၀ေဆာဆာပဒေသာကျပ်(၅)သောင်းဆုများ"
         },
         {
           "prizeId": 14,
@@ -889,11 +889,11 @@
           ],
           "flagged": false,
           "rawLabel": "First 1 Digit (10K)",
-          "customTitle": "First 1 Digit Match"
+          "customTitle": "၀ေ၀ေဆာဆာပဒေသာကျပ်(၁)သောင်းဆုများ"
         }
       ],
       "footerText": "",
-      "lastModified": "2026-02-11T14:20:47.365029"
+      "lastModified": "2026-02-12T01:04:37.214484"
     }
   ],
   "totalDraws": 2,
