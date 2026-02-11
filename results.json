@@ -1,2238 +1,863 @@
 {
-  "exportedAt": "2026-02-11T14:20:51.058676",
-  "totalTerms": 2,
-  "paperTerms": 1,
-  "onlineTerms": 1,
-  "terms": [
+  "exportedAt": "2026-02-11T14:34:23.910316",
+  "prizeTypes": [
     {
-      "termName": "Paper Draw 83",
-      "termNameMy": "စက္ကူထီ ကြိမ်မြောက် (၈၃)",
-      "drawDate": 1770790851058,
-      "drawDateFormatted": "2026-02-11",
-      "lotteryType": "paper",
-      "prizes": [
-        {
-          "ticketMy": "ည၇၉၉၄၈၀",
-          "prizeTypeId": 1,
-          "prizeTitleMy": "အထူးဆုကြီး ကျပ်သိန်း (၅၀၀၀) ဆု",
-          "prizeTitleEn": "အထူးဆုကြီး ကျပ်သိန်း (၅၀၀၀) ဆု",
-          "prizeAmountMMK": 500000000,
-          "matchType": "full",
-          "digits": 6,
-          "refDigits": null
-        },
-        {
-          "ticketMy": "ဍ၃၄၉၀၇၈",
-          "prizeTypeId": 2,
-          "prizeTitleMy": "အထူးဆုကြီး ကျပ်သိန်း (၂၀၀၀) ဆုများ",
-          "prizeTitleEn": "အထူးဆုကြီး ကျပ်သိန်း (၂၀၀၀) ဆုများ",
-          "prizeAmountMMK": 200000000,
-          "matchType": "full",
-          "digits": 6,
-          "refDigits": null
-        },
-        {
-          "ticketMy": "င၈၈၈၄၆၅",
-          "prizeTypeId": 2,
-          "prizeTitleMy": "အထူးဆုကြီး ကျပ်သိန်း (၂၀၀၀) ဆုများ",
-          "prizeTitleEn": "အထူးဆုကြီး ကျပ်သိန်း (၂၀၀၀) ဆုများ",
-          "prizeAmountMMK": 200000000,
-          "matchType": "full",
-          "digits": 6,
-          "refDigits": null
-        },
-        {
-          "ticketMy": "ဋ၁၂၂၉၀၆",
-          "prizeTypeId": 3,
-          "prizeTitleMy": "အထူး စး ကျဝ်သိနိး (၁၀၀၀ စ္စ",
-          "prizeTitleEn": "အထူး စး ကျဝ်သိနိး (၁၀၀၀ စ္စ",
-          "prizeAmountMMK": 100000000,
-          "matchType": "full",
-          "digits": 6,
-          "refDigits": null
-        },
-        {
-          "ticketMy": "ဋ၉၂၆၆၂၃",
-          "prizeTypeId": 3,
-          "prizeTitleMy": "အထူး စး ကျဝ်သိနိး (၁၀၀၀ စ္စ",
-          "prizeTitleEn": "အထူး စး ကျဝ်သိနိး (၁၀၀၀ စ္စ",
-          "prizeAmountMMK": 100000000,
-          "matchType": "full",
-          "digits": 6,
-          "refDigits": null
-        },
-        {
-          "ticketMy": "ဋ၂၁၂၆၄၂",
-          "prizeTypeId": 3,
-          "prizeTitleMy": "အထူး စး ကျဝ်သိနိး (၁၀၀၀ စ္စ",
-          "prizeTitleEn": "အထူး စး ကျဝ်သိနိး (၁၀၀၀ စ္စ",
-          "prizeAmountMMK": 100000000,
-          "matchType": "full",
-          "digits": 6,
-          "refDigits": null
-        },
-        {
-          "ticketMy": "ဌ၁၁၀၀၅၇",
-          "prizeTypeId": 4,
-          "prizeTitleMy": "ဆုတစ်ဆုချင်း ကျပ်သိန်း(၅၀)ဆုများ",
-          "prizeTitleEn": "ဆုတစ်ဆုချင်း ကျပ်သိန်း(၅၀)ဆုများ",
-          "prizeAmountMMK": 50000000,
-          "matchType": "full",
-          "digits": 6,
-          "refDigits": null
-        },
-        {
-          "ticketMy": "ဆ၄၁၉၄၃၄",
-          "prizeTypeId": 4,
-          "prizeTitleMy": "ဆုတစ်ဆုချင်း ကျပ်သိန်း(၅၀)ဆုများ",
-          "prizeTitleEn": "ဆုတစ်ဆုချင်း ကျပ်သိန်း(၅၀)ဆုများ",
-          "prizeAmountMMK": 50000000,
-          "matchType": "full",
-          "digits": 6,
-          "refDigits": null
-        },
-        {
-          "ticketMy": "ဃ၁၁၄၂၆၆",
-          "prizeTypeId": 4,
-          "prizeTitleMy": "ဆုတစ်ဆုချင်း ကျပ်သိန်း(၅၀)ဆုများ",
-          "prizeTitleEn": "ဆုတစ်ဆုချင်း ကျပ်သိန်း(၅၀)ဆုများ",
-          "prizeAmountMMK": 50000000,
-          "matchType": "full",
-          "digits": 6,
-          "refDigits": null
-        },
-        {
-          "ticketMy": "ဆ၆၇၂၁၉၉",
-          "prizeTypeId": 4,
-          "prizeTitleMy": "ဆုတစ်ဆုချင်း ကျပ်သိန်း(၅၀)ဆုများ",
-          "prizeTitleEn": "ဆုတစ်ဆုချင်း ကျပ်သိန်း(၅၀)ဆုများ",
-          "prizeAmountMMK": 50000000,
-          "matchType": "full",
-          "digits": 6,
-          "refDigits": null
-        },
-        {
-          "ticketMy": "ဋ၂၂၁၇၅၇",
-          "prizeTypeId": 4,
-          "prizeTitleMy": "ဆုတစ်ဆုချင်း ကျပ်သိန်း(၅၀)ဆုများ",
-          "prizeTitleEn": "ဆုတစ်ဆုချင်း ကျပ်သိန်း(၅၀)ဆုများ",
-          "prizeAmountMMK": 50000000,
-          "matchType": "full",
-          "digits": 6,
-          "refDigits": null
-        },
-        {
-          "ticketMy": "က၇၅၃၇၁၈",
-          "prizeTypeId": 4,
-          "prizeTitleMy": "ဆုတစ်ဆုချင်း ကျပ်သိန်း(၅၀)ဆုများ",
-          "prizeTitleEn": "ဆုတစ်ဆုချင်း ကျပ်သိန်း(၅၀)ဆုများ",
-          "prizeAmountMMK": 50000000,
-          "matchType": "full",
-          "digits": 6,
-          "refDigits": null
-        },
-        {
-          "ticketMy": "စ၂၇၈၂၅၁",
-          "prizeTypeId": 4,
-          "prizeTitleMy": "ဆုတစ်ဆုချင်း ကျပ်သိန်း(၅၀)ဆုများ",
-          "prizeTitleEn": "ဆုတစ်ဆုချင်း ကျပ်သိန်း(၅၀)ဆုများ",
-          "prizeAmountMMK": 50000000,
-          "matchType": "full",
-          "digits": 6,
-          "refDigits": null
-        },
-        {
-          "ticketMy": "ဇ၈၁၆၆၆၂",
-          "prizeTypeId": 4,
-          "prizeTitleMy": "ဆုတစ်ဆုချင်း ကျပ်သိန်း(၅၀)ဆုများ",
-          "prizeTitleEn": "ဆုတစ်ဆုချင်း ကျပ်သိန်း(၅၀)ဆုများ",
-          "prizeAmountMMK": 50000000,
-          "matchType": "full",
-          "digits": 6,
-          "refDigits": null
-        },
-        {
-          "ticketMy": "ဇ၄၁၄၃၉၄",
-          "prizeTypeId": 4,
-          "prizeTitleMy": "ဆုတစ်ဆုချင်း ကျပ်သိန်း(၅၀)ဆုများ",
-          "prizeTitleEn": "ဆုတစ်ဆုချင်း ကျပ်သိန်း(၅၀)ဆုများ",
-          "prizeAmountMMK": 50000000,
-          "matchType": "full",
-          "digits": 6,
-          "refDigits": null
-        },
-        {
-          "ticketMy": "င၉၅၇၆၂၄",
-          "prizeTypeId": 4,
-          "prizeTitleMy": "ဆုတစ်ဆုချင်း ကျပ်သိန်း(၅၀)ဆုများ",
-          "prizeTitleEn": "ဆုတစ်ဆုချင်း ကျပ်သိန်း(၅၀)ဆုများ",
-          "prizeAmountMMK": 50000000,
-          "matchType": "full",
-          "digits": 6,
-          "refDigits": null
-        },
-        {
-          "ticketMy": "ဂ၂၂၇၉၂၃",
-          "prizeTypeId": 5,
-          "prizeTitleMy": "ဆုတစ်ဆုချင်း ကျပ်သိန်း(၂၀)ဆုများ",
-          "prizeTitleEn": "ဆုတစ်ဆုချင်း ကျပ်သိန်း(၂၀)ဆုများ",
-          "prizeAmountMMK": 30000000,
-          "matchType": "full",
-          "digits": 6,
-          "refDigits": null
-        },
-        {
-          "ticketMy": "ဋ၇၀၉၃၃၄",
-          "prizeTypeId": 5,
-          "prizeTitleMy": "ဆုတစ်ဆုချင်း ကျပ်သိန်း(၂၀)ဆုများ",
-          "prizeTitleEn": "ဆုတစ်ဆုချင်း ကျပ်သိန်း(၂၀)ဆုများ",
-          "prizeAmountMMK": 30000000,
-          "matchType": "full",
-          "digits": 6,
-          "refDigits": null
-        },
-        {
-          "ticketMy": "စ၈၃၉၅၃၇",
-          "prizeTypeId": 5,
-          "prizeTitleMy": "ဆုတစ်ဆုချင်း ကျပ်သိန်း(၂၀)ဆုများ",
-          "prizeTitleEn": "ဆုတစ်ဆုချင်း ကျပ်သိန်း(၂၀)ဆုများ",
-          "prizeAmountMMK": 30000000,
-          "matchType": "full",
-          "digits": 6,
-          "refDigits": null
-        },
-        {
-          "ticketMy": "ဍ၂၅၁၈၉၀",
-          "prizeTypeId": 5,
-          "prizeTitleMy": "ဆုတစ်ဆုချင်း ကျပ်သိန်း(၂၀)ဆုများ",
-          "prizeTitleEn": "ဆုတစ်ဆုချင်း ကျပ်သိန်း(၂၀)ဆုများ",
-          "prizeAmountMMK": 30000000,
-          "matchType": "full",
-          "digits": 6,
-          "refDigits": null
-        },
-        {
-          "ticketMy": "ဍ၇၅၁၉၁၂",
-          "prizeTypeId": 5,
-          "prizeTitleMy": "ဆုတစ်ဆုချင်း ကျပ်သိန်း(၂၀)ဆုများ",
-          "prizeTitleEn": "ဆုတစ်ဆုချင်း ကျပ်သိန်း(၂၀)ဆုများ",
-          "prizeAmountMMK": 30000000,
-          "matchType": "full",
-          "digits": 6,
-          "refDigits": null
-        },
-        {
-          "ticketMy": "ဍ၈၈၂၂၇၇",
-          "prizeTypeId": 5,
-          "prizeTitleMy": "ဆုတစ်ဆုချင်း ကျပ်သိန်း(၂၀)ဆုများ",
-          "prizeTitleEn": "ဆုတစ်ဆုချင်း ကျပ်သိန်း(၂၀)ဆုများ",
-          "prizeAmountMMK": 30000000,
-          "matchType": "full",
-          "digits": 6,
-          "refDigits": null
-        },
-        {
-          "ticketMy": "ည၂၈၆၈၇၃",
-          "prizeTypeId": 5,
-          "prizeTitleMy": "ဆုတစ်ဆုချင်း ကျပ်သိန်း(၂၀)ဆုများ",
-          "prizeTitleEn": "ဆုတစ်ဆုချင်း ကျပ်သိန်း(၂၀)ဆုများ",
-          "prizeAmountMMK": 30000000,
-          "matchType": "full",
-          "digits": 6,
-          "refDigits": null
-        },
-        {
-          "ticketMy": "င၇၆၄၇၀၉",
-          "prizeTypeId": 5,
-          "prizeTitleMy": "ဆုတစ်ဆုချင်း ကျပ်သိန်း(၂၀)ဆုများ",
-          "prizeTitleEn": "ဆုတစ်ဆုချင်း ကျပ်သိန်း(၂၀)ဆုများ",
-          "prizeAmountMMK": 30000000,
-          "matchType": "full",
-          "digits": 6,
-          "refDigits": null
-        },
-        {
-          "ticketMy": "ဆ၉၂၇၅၇၅",
-          "prizeTypeId": 5,
-          "prizeTitleMy": "ဆုတစ်ဆုချင်း ကျပ်သိန်း(၂၀)ဆုများ",
-          "prizeTitleEn": "ဆုတစ်ဆုချင်း ကျပ်သိန်း(၂၀)ဆုများ",
-          "prizeAmountMMK": 30000000,
-          "matchType": "full",
-          "digits": 6,
-          "refDigits": null
-        },
-        {
-          "ticketMy": "ဍ၄၈၈၄၉၈",
-          "prizeTypeId": 5,
-          "prizeTitleMy": "ဆုတစ်ဆုချင်း ကျပ်သိန်း(၂၀)ဆုများ",
-          "prizeTitleEn": "ဆုတစ်ဆုချင်း ကျပ်သိန်း(၂၀)ဆုများ",
-          "prizeAmountMMK": 30000000,
-          "matchType": "full",
-          "digits": 6,
-          "refDigits": null
-        },
-        {
-          "ticketMy": "ဍ၇၉၀၇၇၇",
-          "prizeTypeId": 5,
-          "prizeTitleMy": "ဆုတစ်ဆုချင်း ကျပ်သိန်း(၂၀)ဆုများ",
-          "prizeTitleEn": "ဆုတစ်ဆုချင်း ကျပ်သိန်း(၂၀)ဆုများ",
-          "prizeAmountMMK": 30000000,
-          "matchType": "full",
-          "digits": 6,
-          "refDigits": null
-        },
-        {
-          "ticketMy": "က၉၉၄၈၁၈",
-          "prizeTypeId": 5,
-          "prizeTitleMy": "ဆုတစ်ဆုချင်း ကျပ်သိန်း(၂၀)ဆုများ",
-          "prizeTitleEn": "ဆုတစ်ဆုချင်း ကျပ်သိန်း(၂၀)ဆုများ",
-          "prizeAmountMMK": 30000000,
-          "matchType": "full",
-          "digits": 6,
-          "refDigits": null
-        },
-        {
-          "ticketMy": "ဈ၁၃၈၀၂၀",
-          "prizeTypeId": 6,
-          "prizeTitleMy": "ဆုတစ်ဆုချင်း ကျပ်(၁၀)သိန်းဆုများ",
-          "prizeTitleEn": "ဆုတစ်ဆုချင်း ကျပ်(၁၀)သိန်းဆုများ",
-          "prizeAmountMMK": 20000000,
-          "matchType": "full",
-          "digits": 6,
-          "refDigits": null
-        },
-        {
-          "ticketMy": "စ၃၄၆၆၃၃",
-          "prizeTypeId": 6,
-          "prizeTitleMy": "ဆုတစ်ဆုချင်း ကျပ်(၁၀)သိန်းဆုများ",
-          "prizeTitleEn": "ဆုတစ်ဆုချင်း ကျပ်(၁၀)သိန်းဆုများ",
-          "prizeAmountMMK": 20000000,
-          "matchType": "full",
-          "digits": 6,
-          "refDigits": null
-        },
-        {
-          "ticketMy": "ခ၇၃၀၆၉၃",
-          "prizeTypeId": 6,
-          "prizeTitleMy": "ဆုတစ်ဆုချင်း ကျပ်(၁၀)သိန်းဆုများ",
-          "prizeTitleEn": "ဆုတစ်ဆုချင်း ကျပ်(၁၀)သိန်းဆုများ",
-          "prizeAmountMMK": 20000000,
-          "matchType": "full",
-          "digits": 6,
-          "refDigits": null
-        },
-        {
-          "ticketMy": "ဋ၂၂၅၁၃၅",
-          "prizeTypeId": 6,
-          "prizeTitleMy": "ဆုတစ်ဆုချင်း ကျပ်(၁၀)သိန်းဆုများ",
-          "prizeTitleEn": "ဆုတစ်ဆုချင်း ကျပ်(၁၀)သိန်းဆုများ",
-          "prizeAmountMMK": 20000000,
-          "matchType": "full",
-          "digits": 6,
-          "refDigits": null
-        },
-        {
-          "ticketMy": "င၃၅၀၅၂၉",
-          "prizeTypeId": 6,
-          "prizeTitleMy": "ဆုတစ်ဆုချင်း ကျပ်(၁၀)သိန်းဆုများ",
-          "prizeTitleEn": "ဆုတစ်ဆုချင်း ကျပ်(၁၀)သိန်းဆုများ",
-          "prizeAmountMMK": 20000000,
-          "matchType": "full",
-          "digits": 6,
-          "refDigits": null
-        },
-        {
-          "ticketMy": "ဋ၈၀၅၆၆၈",
-          "prizeTypeId": 6,
-          "prizeTitleMy": "ဆုတစ်ဆုချင်း ကျပ်(၁၀)သိန်းဆုများ",
-          "prizeTitleEn": "ဆုတစ်ဆုချင်း ကျပ်(၁၀)သိန်းဆုများ",
-          "prizeAmountMMK": 20000000,
-          "matchType": "full",
-          "digits": 6,
-          "refDigits": null
-        },
-        {
-          "ticketMy": "ဂ၂၃၅၆၈၄",
-          "prizeTypeId": 6,
-          "prizeTitleMy": "ဆုတစ်ဆုချင်း ကျပ်(၁၀)သိန်းဆုများ",
-          "prizeTitleEn": "ဆုတစ်ဆုချင်း ကျပ်(၁၀)သိန်းဆုများ",
-          "prizeAmountMMK": 20000000,
-          "matchType": "full",
-          "digits": 6,
-          "refDigits": null
-        },
-        {
-          "ticketMy": "ည၄၃၀၂၄၃",
-          "prizeTypeId": 6,
-          "prizeTitleMy": "ဆုတစ်ဆုချင်း ကျပ်(၁၀)သိန်းဆုများ",
-          "prizeTitleEn": "ဆုတစ်ဆုချင်း ကျပ်(၁၀)သိန်းဆုများ",
-          "prizeAmountMMK": 20000000,
-          "matchType": "full",
-          "digits": 6,
-          "refDigits": null
-        },
-        {
-          "ticketMy": "ဂ၈၇၉၈၀၃",
-          "prizeTypeId": 6,
-          "prizeTitleMy": "ဆုတစ်ဆုချင်း ကျပ်(၁၀)သိန်းဆုများ",
-          "prizeTitleEn": "ဆုတစ်ဆုချင်း ကျပ်(၁၀)သိန်းဆုများ",
-          "prizeAmountMMK": 20000000,
-          "matchType": "full",
-          "digits": 6,
-          "refDigits": null
-        },
-        {
-          "ticketMy": "ဌ၂၅၆၂၅၄",
-          "prizeTypeId": 6,
-          "prizeTitleMy": "ဆုတစ်ဆုချင်း ကျပ်(၁၀)သိန်းဆုများ",
-          "prizeTitleEn": "ဆုတစ်ဆုချင်း ကျပ်(၁၀)သိန်းဆုများ",
-          "prizeAmountMMK": 20000000,
-          "matchType": "full",
-          "digits": 6,
-          "refDigits": null
-        },
-        {
-          "ticketMy": "င၆၄၆၂၁၁",
-          "prizeTypeId": 6,
-          "prizeTitleMy": "ဆုတစ်ဆုချင်း ကျပ်(၁၀)သိန်းဆုများ",
-          "prizeTitleEn": "ဆုတစ်ဆုချင်း ကျပ်(၁၀)သိန်းဆုများ",
-          "prizeAmountMMK": 20000000,
-          "matchType": "full",
-          "digits": 6,
-          "refDigits": null
-        },
-        {
-          "ticketMy": "က၉၉၆၄၄၅",
-          "prizeTypeId": 6,
-          "prizeTitleMy": "ဆုတစ်ဆုချင်း ကျပ်(၁၀)သိန်းဆုများ",
-          "prizeTitleEn": "ဆုတစ်ဆုချင်း ကျပ်(၁၀)သိန်းဆုများ",
-          "prizeAmountMMK": 20000000,
-          "matchType": "full",
-          "digits": 6,
-          "refDigits": null
-        },
-        {
-          "ticketMy": "ည၂၉၇၁၉၃",
-          "prizeTypeId": 6,
-          "prizeTitleMy": "ဆုတစ်ဆုချင်း ကျပ်(၁၀)သိန်းဆုများ",
-          "prizeTitleEn": "ဆုတစ်ဆုချင်း ကျပ်(၁၀)သိန်းဆုများ",
-          "prizeAmountMMK": 20000000,
-          "matchType": "full",
-          "digits": 6,
-          "refDigits": null
-        },
-        {
-          "ticketMy": "င၆၉၃၂၈၃",
-          "prizeTypeId": 6,
-          "prizeTitleMy": "ဆုတစ်ဆုချင်း ကျပ်(၁၀)သိန်းဆုများ",
-          "prizeTitleEn": "ဆုတစ်ဆုချင်း ကျပ်(၁၀)သိန်းဆုများ",
-          "prizeAmountMMK": 20000000,
-          "matchType": "full",
-          "digits": 6,
-          "refDigits": null
-        },
-        {
-          "ticketMy": "က၁၀၂၀၇၈",
-          "prizeTypeId": 7,
-          "prizeTitleMy": "7th Prize (100 Lakhs)",
-          "prizeTitleEn": "7th Prize (100 Lakhs)",
-          "prizeAmountMMK": 10000000,
-          "matchType": "full",
-          "digits": 6,
-          "refDigits": null
-        },
-        {
-          "ticketMy": "က၄၃၄၂၈၅",
-          "prizeTypeId": 7,
-          "prizeTitleMy": "7th Prize (100 Lakhs)",
-          "prizeTitleEn": "7th Prize (100 Lakhs)",
-          "prizeAmountMMK": 10000000,
-          "matchType": "full",
-          "digits": 6,
-          "refDigits": null
-        },
-        {
-          "ticketMy": "ဂ၁၅၇၂၆၀",
-          "prizeTypeId": 7,
-          "prizeTitleMy": "7th Prize (100 Lakhs)",
-          "prizeTitleEn": "7th Prize (100 Lakhs)",
-          "prizeAmountMMK": 10000000,
-          "matchType": "full",
-          "digits": 6,
-          "refDigits": null
-        },
-        {
-          "ticketMy": "ဋ၄၅၈၉၃၆",
-          "prizeTypeId": 7,
-          "prizeTitleMy": "7th Prize (100 Lakhs)",
-          "prizeTitleEn": "7th Prize (100 Lakhs)",
-          "prizeAmountMMK": 10000000,
-          "matchType": "full",
-          "digits": 6,
-          "refDigits": null
-        },
-        {
-          "ticketMy": "ဋ၁၇၂၂၂၅",
-          "prizeTypeId": 7,
-          "prizeTitleMy": "7th Prize (100 Lakhs)",
-          "prizeTitleEn": "7th Prize (100 Lakhs)",
-          "prizeAmountMMK": 10000000,
-          "matchType": "full",
-          "digits": 6,
-          "refDigits": null
-        },
-        {
-          "ticketMy": "ဌ၆၂၆၂၄၅",
-          "prizeTypeId": 7,
-          "prizeTitleMy": "7th Prize (100 Lakhs)",
-          "prizeTitleEn": "7th Prize (100 Lakhs)",
-          "prizeAmountMMK": 10000000,
-          "matchType": "full",
-          "digits": 6,
-          "refDigits": null
-        },
-        {
-          "ticketMy": "ဈ၁၉၈၉၃၃",
-          "prizeTypeId": 7,
-          "prizeTitleMy": "7th Prize (100 Lakhs)",
-          "prizeTitleEn": "7th Prize (100 Lakhs)",
-          "prizeAmountMMK": 10000000,
-          "matchType": "full",
-          "digits": 6,
-          "refDigits": null
-        },
-        {
-          "ticketMy": "ဂ၆၉၃၉၉၂",
-          "prizeTypeId": 7,
-          "prizeTitleMy": "7th Prize (100 Lakhs)",
-          "prizeTitleEn": "7th Prize (100 Lakhs)",
-          "prizeAmountMMK": 10000000,
-          "matchType": "full",
-          "digits": 6,
-          "refDigits": null
-        },
-        {
-          "ticketMy": "စ၃၀၀၄၁၅",
-          "prizeTypeId": 7,
-          "prizeTitleMy": "7th Prize (100 Lakhs)",
-          "prizeTitleEn": "7th Prize (100 Lakhs)",
-          "prizeAmountMMK": 10000000,
-          "matchType": "full",
-          "digits": 6,
-          "refDigits": null
-        },
-        {
-          "ticketMy": "ဇ၇၂၆၅၂၈",
-          "prizeTypeId": 7,
-          "prizeTitleMy": "7th Prize (100 Lakhs)",
-          "prizeTitleEn": "7th Prize (100 Lakhs)",
-          "prizeAmountMMK": 10000000,
-          "matchType": "full",
-          "digits": 6,
-          "refDigits": null
-        },
-        {
-          "ticketMy": "ဇ၃၃၀၉၀၇",
-          "prizeTypeId": 7,
-          "prizeTitleMy": "7th Prize (100 Lakhs)",
-          "prizeTitleEn": "7th Prize (100 Lakhs)",
-          "prizeAmountMMK": 10000000,
-          "matchType": "full",
-          "digits": 6,
-          "refDigits": null
-        },
-        {
-          "ticketMy": "ဌ၉၂၃၄၆၈",
-          "prizeTypeId": 7,
-          "prizeTitleMy": "7th Prize (100 Lakhs)",
-          "prizeTitleEn": "7th Prize (100 Lakhs)",
-          "prizeAmountMMK": 10000000,
-          "matchType": "full",
-          "digits": 6,
-          "refDigits": null
-        },
-        {
-          "ticketMy": "ခ၄၀၆၉၄၆",
-          "prizeTypeId": 7,
-          "prizeTitleMy": "7th Prize (100 Lakhs)",
-          "prizeTitleEn": "7th Prize (100 Lakhs)",
-          "prizeAmountMMK": 10000000,
-          "matchType": "full",
-          "digits": 6,
-          "refDigits": null
-        },
-        {
-          "ticketMy": "ဋ၉၄၁၆၄၂",
-          "prizeTypeId": 7,
-          "prizeTitleMy": "7th Prize (100 Lakhs)",
-          "prizeTitleEn": "7th Prize (100 Lakhs)",
-          "prizeAmountMMK": 10000000,
-          "matchType": "full",
-          "digits": 6,
-          "refDigits": null
-        },
-        {
-          "ticketMy": "င၄၂၀၀၄၆",
-          "prizeTypeId": 7,
-          "prizeTitleMy": "7th Prize (100 Lakhs)",
-          "prizeTitleEn": "7th Prize (100 Lakhs)",
-          "prizeAmountMMK": 10000000,
-          "matchType": "full",
-          "digits": 6,
-          "refDigits": null
-        },
-        {
-          "ticketMy": "ဇ၉၇၉၂၁၃",
-          "prizeTypeId": 7,
-          "prizeTitleMy": "7th Prize (100 Lakhs)",
-          "prizeTitleEn": "7th Prize (100 Lakhs)",
-          "prizeAmountMMK": 10000000,
-          "matchType": "full",
-          "digits": 6,
-          "refDigits": null
-        },
-        {
-          "ticketMy": "စ၁၄၁၇၉၉",
-          "prizeTypeId": 8,
-          "prizeTitleMy": "8th Prize (50 Lakhs)",
-          "prizeTitleEn": "8th Prize (50 Lakhs)",
-          "prizeAmountMMK": 5000000,
-          "matchType": "full",
-          "digits": 6,
-          "refDigits": null
-        },
-        {
-          "ticketMy": "က၄၂၉၃၃၄",
-          "prizeTypeId": 8,
-          "prizeTitleMy": "8th Prize (50 Lakhs)",
-          "prizeTitleEn": "8th Prize (50 Lakhs)",
-          "prizeAmountMMK": 5000000,
-          "matchType": "full",
-          "digits": 6,
-          "refDigits": null
-        },
-        {
-          "ticketMy": "ဋ၇၄၄၄၅၂",
-          "prizeTypeId": 8,
-          "prizeTitleMy": "8th Prize (50 Lakhs)",
-          "prizeTitleEn": "8th Prize (50 Lakhs)",
-          "prizeAmountMMK": 5000000,
-          "matchType": "full",
-          "digits": 6,
-          "refDigits": null
-        },
-        {
-          "ticketMy": "ဋ၁၈၀၂၀၂",
-          "prizeTypeId": 8,
-          "prizeTitleMy": "8th Prize (50 Lakhs)",
-          "prizeTitleEn": "8th Prize (50 Lakhs)",
-          "prizeAmountMMK": 5000000,
-          "matchType": "full",
-          "digits": 6,
-          "refDigits": null
-        },
-        {
-          "ticketMy": "ဌ၄၃၆၀၉၇",
-          "prizeTypeId": 8,
-          "prizeTitleMy": "8th Prize (50 Lakhs)",
-          "prizeTitleEn": "8th Prize (50 Lakhs)",
-          "prizeAmountMMK": 5000000,
-          "matchType": "full",
-          "digits": 6,
-          "refDigits": null
-        },
-        {
-          "ticketMy": "ဆ၉၀၂၀၁၈",
-          "prizeTypeId": 8,
-          "prizeTitleMy": "8th Prize (50 Lakhs)",
-          "prizeTitleEn": "8th Prize (50 Lakhs)",
-          "prizeAmountMMK": 5000000,
-          "matchType": "full",
-          "digits": 6,
-          "refDigits": null
-        },
-        {
-          "ticketMy": "ဇ၁၉၅၀၃၆",
-          "prizeTypeId": 8,
-          "prizeTitleMy": "8th Prize (50 Lakhs)",
-          "prizeTitleEn": "8th Prize (50 Lakhs)",
-          "prizeAmountMMK": 5000000,
-          "matchType": "full",
-          "digits": 6,
-          "refDigits": null
-        },
-        {
-          "ticketMy": "ဈ၄၆၀၁၀၄",
-          "prizeTypeId": 8,
-          "prizeTitleMy": "8th Prize (50 Lakhs)",
-          "prizeTitleEn": "8th Prize (50 Lakhs)",
-          "prizeAmountMMK": 5000000,
-          "matchType": "full",
-          "digits": 6,
-          "refDigits": null
-        },
-        {
-          "ticketMy": "ဇ၉၀၇၈၉၀",
-          "prizeTypeId": 8,
-          "prizeTitleMy": "8th Prize (50 Lakhs)",
-          "prizeTitleEn": "8th Prize (50 Lakhs)",
-          "prizeAmountMMK": 5000000,
-          "matchType": "full",
-          "digits": 6,
-          "refDigits": null
-        },
-        {
-          "ticketMy": "က၂၂၇၀၁၅",
-          "prizeTypeId": 8,
-          "prizeTitleMy": "8th Prize (50 Lakhs)",
-          "prizeTitleEn": "8th Prize (50 Lakhs)",
-          "prizeAmountMMK": 5000000,
-          "matchType": "full",
-          "digits": 6,
-          "refDigits": null
-        },
-        {
-          "ticketMy": "ဂ၅၃၁၄၃၆",
-          "prizeTypeId": 8,
-          "prizeTitleMy": "8th Prize (50 Lakhs)",
-          "prizeTitleEn": "8th Prize (50 Lakhs)",
-          "prizeAmountMMK": 5000000,
-          "matchType": "full",
-          "digits": 6,
-          "refDigits": null
-        },
-        {
-          "ticketMy": "ဇ၉၂၅၂၅၈",
-          "prizeTypeId": 8,
-          "prizeTitleMy": "8th Prize (50 Lakhs)",
-          "prizeTitleEn": "8th Prize (50 Lakhs)",
-          "prizeAmountMMK": 5000000,
-          "matchType": "full",
-          "digits": 6,
-          "refDigits": null
-        },
-        {
-          "ticketMy": "ခ၂၅၆၉၂၀",
-          "prizeTypeId": 8,
-          "prizeTitleMy": "8th Prize (50 Lakhs)",
-          "prizeTitleEn": "8th Prize (50 Lakhs)",
-          "prizeAmountMMK": 5000000,
-          "matchType": "full",
-          "digits": 6,
-          "refDigits": null
-        },
-        {
-          "ticketMy": "ဋ၅၅၅၈၆၅",
-          "prizeTypeId": 8,
-          "prizeTitleMy": "8th Prize (50 Lakhs)",
-          "prizeTitleEn": "8th Prize (50 Lakhs)",
-          "prizeAmountMMK": 5000000,
-          "matchType": "full",
-          "digits": 6,
-          "refDigits": null
-        },
-        {
-          "ticketMy": "ခ၉၃၆၅၀၇",
-          "prizeTypeId": 8,
-          "prizeTitleMy": "8th Prize (50 Lakhs)",
-          "prizeTitleEn": "8th Prize (50 Lakhs)",
-          "prizeAmountMMK": 5000000,
-          "matchType": "full",
-          "digits": 6,
-          "refDigits": null
-        },
-        {
-          "ticketMy": "ဃ၂၆၉၉၀၃",
-          "prizeTypeId": 8,
-          "prizeTitleMy": "8th Prize (50 Lakhs)",
-          "prizeTitleEn": "8th Prize (50 Lakhs)",
-          "prizeAmountMMK": 5000000,
-          "matchType": "full",
-          "digits": 6,
-          "refDigits": null
-        },
-        {
-          "ticketMy": "ဌ၇၁၄၁၁၁",
-          "prizeTypeId": 8,
-          "prizeTitleMy": "8th Prize (50 Lakhs)",
-          "prizeTitleEn": "8th Prize (50 Lakhs)",
-          "prizeAmountMMK": 5000000,
-          "matchType": "full",
-          "digits": 6,
-          "refDigits": null
-        },
-        {
-          "ticketMy": "ည၉၆၄၂၃၀",
-          "prizeTypeId": 8,
-          "prizeTitleMy": "8th Prize (50 Lakhs)",
-          "prizeTitleEn": "8th Prize (50 Lakhs)",
-          "prizeAmountMMK": 5000000,
-          "matchType": "full",
-          "digits": 6,
-          "refDigits": null
-        },
-        {
-          "ticketMy": "က၃၇၈၉၃၁",
-          "prizeTypeId": 8,
-          "prizeTitleMy": "8th Prize (50 Lakhs)",
-          "prizeTitleEn": "8th Prize (50 Lakhs)",
-          "prizeAmountMMK": 5000000,
-          "matchType": "full",
-          "digits": 6,
-          "refDigits": null
-        },
-        {
-          "ticketMy": "ခ၇၂၃၄၀၀",
-          "prizeTypeId": 8,
-          "prizeTitleMy": "8th Prize (50 Lakhs)",
-          "prizeTitleEn": "8th Prize (50 Lakhs)",
-          "prizeAmountMMK": 5000000,
-          "matchType": "full",
-          "digits": 6,
-          "refDigits": null
-        },
-        {
-          "ticketMy": "စ၉၈၆၁၀၁",
-          "prizeTypeId": 8,
-          "prizeTitleMy": "8th Prize (50 Lakhs)",
-          "prizeTitleEn": "8th Prize (50 Lakhs)",
-          "prizeAmountMMK": 5000000,
-          "matchType": "full",
-          "digits": 6,
-          "refDigits": null
-        },
-        {
-          "ticketMy": "င၄၂၉၃၂၄",
-          "prizeTypeId": 8,
-          "prizeTitleMy": "8th Prize (50 Lakhs)",
-          "prizeTitleEn": "8th Prize (50 Lakhs)",
-          "prizeAmountMMK": 5000000,
-          "matchType": "full",
-          "digits": 6,
-          "refDigits": null
-        },
-        {
-          "ticketMy": "ဂ၁၁၁၀၈၀",
-          "prizeTypeId": 9,
-          "prizeTitleMy": "9th Prize (30 Lakhs)",
-          "prizeTitleEn": "9th Prize (30 Lakhs)",
-          "prizeAmountMMK": 3000000,
-          "matchType": "full",
-          "digits": 6,
-          "refDigits": null
-        },
-        {
-          "ticketMy": "ဈ၄၆၉၃၁၃",
-          "prizeTypeId": 9,
-          "prizeTitleMy": "9th Prize (30 Lakhs)",
-          "prizeTitleEn": "9th Prize (30 Lakhs)",
-          "prizeAmountMMK": 3000000,
-          "matchType": "full",
-          "digits": 6,
-          "refDigits": null
-        },
-        {
-          "ticketMy": "ဂ၁၄၈၈၃၂",
-          "prizeTypeId": 9,
-          "prizeTitleMy": "9th Prize (30 Lakhs)",
-          "prizeTitleEn": "9th Prize (30 Lakhs)",
-          "prizeAmountMMK": 3000000,
-          "matchType": "full",
-          "digits": 6,
-          "refDigits": null
-        },
-        {
-          "ticketMy": "ဈ၅၃၀၂၇၄",
-          "prizeTypeId": 9,
-          "prizeTitleMy": "9th Prize (30 Lakhs)",
-          "prizeTitleEn": "9th Prize (30 Lakhs)",
-          "prizeAmountMMK": 3000000,
-          "matchType": "full",
-          "digits": 6,
-          "refDigits": null
-        },
-        {
-          "ticketMy": "ဃ၁၅၃၈၀၁",
-          "prizeTypeId": 9,
-          "prizeTitleMy": "9th Prize (30 Lakhs)",
-          "prizeTitleEn": "9th Prize (30 Lakhs)",
-          "prizeAmountMMK": 3000000,
-          "matchType": "full",
-          "digits": 6,
-          "refDigits": null
-        },
-        {
-          "ticketMy": "ဍ၆၉၃၀၅၄",
-          "prizeTypeId": 9,
-          "prizeTitleMy": "9th Prize (30 Lakhs)",
-          "prizeTitleEn": "9th Prize (30 Lakhs)",
-          "prizeAmountMMK": 3000000,
-          "matchType": "full",
-          "digits": 6,
-          "refDigits": null
-        },
-        {
-          "ticketMy": "ဃ၁၅၄၆၈၃",
-          "prizeTypeId": 9,
-          "prizeTitleMy": "9th Prize (30 Lakhs)",
-          "prizeTitleEn": "9th Prize (30 Lakhs)",
-          "prizeAmountMMK": 3000000,
-          "matchType": "full",
-          "digits": 6,
-          "refDigits": null
-        },
-        {
-          "ticketMy": "စ၆၉၅၆၃၅",
-          "prizeTypeId": 9,
-          "prizeTitleMy": "9th Prize (30 Lakhs)",
-          "prizeTitleEn": "9th Prize (30 Lakhs)",
-          "prizeAmountMMK": 3000000,
-          "matchType": "full",
-          "digits": 6,
-          "refDigits": null
-        },
-        {
-          "ticketMy": "ဆ၁၉၉၉၃၅",
-          "prizeTypeId": 9,
-          "prizeTitleMy": "9th Prize (30 Lakhs)",
-          "prizeTitleEn": "9th Prize (30 Lakhs)",
-          "prizeAmountMMK": 3000000,
-          "matchType": "full",
-          "digits": 6,
-          "refDigits": null
-        },
-        {
-          "ticketMy": "စ၇၁၈၅၅၈",
-          "prizeTypeId": 9,
-          "prizeTitleMy": "9th Prize (30 Lakhs)",
-          "prizeTitleEn": "9th Prize (30 Lakhs)",
-          "prizeAmountMMK": 3000000,
-          "matchType": "full",
-          "digits": 6,
-          "refDigits": null
-        },
-        {
-          "ticketMy": "က၂၁၅၀၄၀",
-          "prizeTypeId": 9,
-          "prizeTitleMy": "9th Prize (30 Lakhs)",
-          "prizeTitleEn": "9th Prize (30 Lakhs)",
-          "prizeAmountMMK": 3000000,
-          "matchType": "full",
-          "digits": 6,
-          "refDigits": null
-        },
-        {
-          "ticketMy": "ဇ၇၃၁၀၁၅",
-          "prizeTypeId": 9,
-          "prizeTitleMy": "9th Prize (30 Lakhs)",
-          "prizeTitleEn": "9th Prize (30 Lakhs)",
-          "prizeAmountMMK": 3000000,
-          "matchType": "full",
-          "digits": 6,
-          "refDigits": null
-        },
-        {
-          "ticketMy": "ဂ၂၉၈၁၄၅",
-          "prizeTypeId": 9,
-          "prizeTitleMy": "9th Prize (30 Lakhs)",
-          "prizeTitleEn": "9th Prize (30 Lakhs)",
-          "prizeAmountMMK": 3000000,
-          "matchType": "full",
-          "digits": 6,
-          "refDigits": null
-        },
-        {
-          "ticketMy": "က၇၆၃၈၆၁",
-          "prizeTypeId": 9,
-          "prizeTitleMy": "9th Prize (30 Lakhs)",
-          "prizeTitleEn": "9th Prize (30 Lakhs)",
-          "prizeAmountMMK": 3000000,
-          "matchType": "full",
-          "digits": 6,
-          "refDigits": null
-        },
-        {
-          "ticketMy": "ဌ၃၃၈၆၉၆",
-          "prizeTypeId": 9,
-          "prizeTitleMy": "9th Prize (30 Lakhs)",
-          "prizeTitleEn": "9th Prize (30 Lakhs)",
-          "prizeAmountMMK": 3000000,
-          "matchType": "full",
-          "digits": 6,
-          "refDigits": null
-        },
-        {
-          "ticketMy": "ဂ၇၉၆၃၉၄",
-          "prizeTypeId": 9,
-          "prizeTitleMy": "9th Prize (30 Lakhs)",
-          "prizeTitleEn": "9th Prize (30 Lakhs)",
-          "prizeAmountMMK": 3000000,
-          "matchType": "full",
-          "digits": 6,
-          "refDigits": null
-        },
-        {
-          "ticketMy": "ဆ၄၀၁၂၀၈",
-          "prizeTypeId": 9,
-          "prizeTitleMy": "9th Prize (30 Lakhs)",
-          "prizeTitleEn": "9th Prize (30 Lakhs)",
-          "prizeAmountMMK": 3000000,
-          "matchType": "full",
-          "digits": 6,
-          "refDigits": null
-        },
-        {
-          "ticketMy": "ဂ၈၂၃၇၀၂",
-          "prizeTypeId": 9,
-          "prizeTitleMy": "9th Prize (30 Lakhs)",
-          "prizeTitleEn": "9th Prize (30 Lakhs)",
-          "prizeAmountMMK": 3000000,
-          "matchType": "full",
-          "digits": 6,
-          "refDigits": null
-        },
-        {
-          "ticketMy": "ဆ၄၀၄၉၈၂",
-          "prizeTypeId": 9,
-          "prizeTitleMy": "9th Prize (30 Lakhs)",
-          "prizeTitleEn": "9th Prize (30 Lakhs)",
-          "prizeAmountMMK": 3000000,
-          "matchType": "full",
-          "digits": 6,
-          "refDigits": null
-        },
-        {
-          "ticketMy": "က၉၀၆၅၁၃",
-          "prizeTypeId": 9,
-          "prizeTitleMy": "9th Prize (30 Lakhs)",
-          "prizeTitleEn": "9th Prize (30 Lakhs)",
-          "prizeAmountMMK": 3000000,
-          "matchType": "full",
-          "digits": 6,
-          "refDigits": null
-        },
-        {
-          "ticketMy": "ဋ၄၂၆၂၃၄",
-          "prizeTypeId": 9,
-          "prizeTitleMy": "9th Prize (30 Lakhs)",
-          "prizeTitleEn": "9th Prize (30 Lakhs)",
-          "prizeAmountMMK": 3000000,
-          "matchType": "full",
-          "digits": 6,
-          "refDigits": null
-        },
-        {
-          "ticketMy": "ည၉၁၀၇၃၁",
-          "prizeTypeId": 9,
-          "prizeTitleMy": "9th Prize (30 Lakhs)",
-          "prizeTitleEn": "9th Prize (30 Lakhs)",
-          "prizeAmountMMK": 3000000,
-          "matchType": "full",
-          "digits": 6,
-          "refDigits": null
-        },
-        {
-          "ticketMy": "ဇ၄၄၄၇၆၁",
-          "prizeTypeId": 9,
-          "prizeTitleMy": "9th Prize (30 Lakhs)",
-          "prizeTitleEn": "9th Prize (30 Lakhs)",
-          "prizeAmountMMK": 3000000,
-          "matchType": "full",
-          "digits": 6,
-          "refDigits": null
-        },
-        {
-          "ticketMy": "ဍ၉၉၁၅၈၁",
-          "prizeTypeId": 9,
-          "prizeTitleMy": "9th Prize (30 Lakhs)",
-          "prizeTitleEn": "9th Prize (30 Lakhs)",
-          "prizeAmountMMK": 3000000,
-          "matchType": "full",
-          "digits": 6,
-          "refDigits": null
-        },
-        {
-          "ticketMy": "ည၄၄၇၇၀၂",
-          "prizeTypeId": 9,
-          "prizeTitleMy": "9th Prize (30 Lakhs)",
-          "prizeTitleEn": "9th Prize (30 Lakhs)",
-          "prizeAmountMMK": 3000000,
-          "matchType": "full",
-          "digits": 6,
-          "refDigits": null
-        },
-        {
-          "ticketMy": "ဇ၉၉၇၅၅၁",
-          "prizeTypeId": 9,
-          "prizeTitleMy": "9th Prize (30 Lakhs)",
-          "prizeTitleEn": "9th Prize (30 Lakhs)",
-          "prizeAmountMMK": 3000000,
-          "matchType": "full",
-          "digits": 6,
-          "refDigits": null
-        },
-        {
-          "ticketMy": "ဈ၁၃၂၇၉၇",
-          "prizeTypeId": 15,
-          "prizeTitleMy": "10th Prize (10 Lakhs)",
-          "prizeTitleEn": "10th Prize (10 Lakhs)",
-          "prizeAmountMMK": 1000000,
-          "matchType": "full",
-          "digits": 6,
-          "refDigits": null
-        },
-        {
-          "ticketMy": "င၄၅၁၆၇၃",
-          "prizeTypeId": 15,
-          "prizeTitleMy": "10th Prize (10 Lakhs)",
-          "prizeTitleEn": "10th Prize (10 Lakhs)",
-          "prizeAmountMMK": 1000000,
-          "matchType": "full",
-          "digits": 6,
-          "refDigits": null
-        },
-        {
-          "ticketMy": "င၁၇၃၆၄၁",
-          "prizeTypeId": 15,
-          "prizeTitleMy": "10th Prize (10 Lakhs)",
-          "prizeTitleEn": "10th Prize (10 Lakhs)",
-          "prizeAmountMMK": 1000000,
-          "matchType": "full",
-          "digits": 6,
-          "refDigits": null
-        },
-        {
-          "ticketMy": "ည၉၃၉၅၄၃",
-          "prizeTypeId": 15,
-          "prizeTitleMy": "10th Prize (10 Lakhs)",
-          "prizeTitleEn": "10th Prize (10 Lakhs)",
-          "prizeAmountMMK": 1000000,
-          "matchType": "full",
-          "digits": 6,
-          "refDigits": null
-        },
-        {
-          "ticketMy": "ဍ၃၀၅၄၆",
-          "prizeTypeId": 10,
-          "prizeTitleMy": "ရှှေ့ဂဏ ််း(၅)ေံု်းအစဉ်ေိုက်တ  - ကျပ်(၃)သိ",
-          "prizeTitleEn": "ရှှေ့ဂဏ ််း(၅)ေံု်းအစဉ်ေိုက်တ  - ကျပ်(၃)သိ",
-          "prizeAmountMMK": 300000,
-          "matchType": "prefix_full",
-          "digits": 5,
-          "refDigits": "799480"
-        },
-        {
-          "ticketMy": "စ၄၆၃၀၁",
-          "prizeTypeId": 10,
-          "prizeTitleMy": "ရှှေ့ဂဏ ််း(၅)ေံု်းအစဉ်ေိုက်တ  - ကျပ်(၃)သိ",
-          "prizeTitleEn": "ရှှေ့ဂဏ ််း(၅)ေံု်းအစဉ်ေိုက်တ  - ကျပ်(၃)သိ",
-          "prizeAmountMMK": 300000,
-          "matchType": "prefix_full",
-          "digits": 5,
-          "refDigits": "799480"
-        },
-        {
-          "ticketMy": "ဍ၂၆၂၁၂",
-          "prizeTypeId": 10,
-          "prizeTitleMy": "ရှှေ့ဂဏ ််း(၅)ေံု်းအစဉ်ေိုက်တ  - ကျပ်(၃)သိ",
-          "prizeTitleEn": "ရှှေ့ဂဏ ််း(၅)ေံု်းအစဉ်ေိုက်တ  - ကျပ်(၃)သိ",
-          "prizeAmountMMK": 300000,
-          "matchType": "prefix_full",
-          "digits": 5,
-          "refDigits": "799480"
-        },
-        {
-          "ticketMy": "ဋ၅၄၇၀၇",
-          "prizeTypeId": 10,
-          "prizeTitleMy": "ရှှေ့ဂဏ ််း(၅)ေံု်းအစဉ်ေိုက်တ  - ကျပ်(၃)သိ",
-          "prizeTitleEn": "ရှှေ့ဂဏ ််း(၅)ေံု်းအစဉ်ေိုက်တ  - ကျပ်(၃)သိ",
-          "prizeAmountMMK": 300000,
-          "matchType": "prefix_full",
-          "digits": 5,
-          "refDigits": "799480"
-        },
-        {
-          "ticketMy": "ခ၃၃၀၇၁",
-          "prizeTypeId": 10,
-          "prizeTitleMy": "ရှှေ့ဂဏ ််း(၅)ေံု်းအစဉ်ေိုက်တ  - ကျပ်(၃)သိ",
-          "prizeTitleEn": "ရှှေ့ဂဏ ််း(၅)ေံု်းအစဉ်ေိုက်တ  - ကျပ်(၃)သိ",
-          "prizeAmountMMK": 300000,
-          "matchType": "prefix_full",
-          "digits": 5,
-          "refDigits": "799480"
-        },
-        {
-          "ticketMy": "ဃ၇၀၂၅၈",
-          "prizeTypeId": 10,
-          "prizeTitleMy": "ရှှေ့ဂဏ ််း(၅)ေံု်းအစဉ်ေိုက်တ  - ကျပ်(၃)သိ",
-          "prizeTitleEn": "ရှှေ့ဂဏ ််း(၅)ေံု်းအစဉ်ေိုက်တ  - ကျပ်(၃)သိ",
-          "prizeAmountMMK": 300000,
-          "matchType": "prefix_full",
-          "digits": 5,
-          "refDigits": "799480"
-        },
-        {
-          "ticketMy": "ဍ၄၃၇၃၀",
-          "prizeTypeId": 10,
-          "prizeTitleMy": "ရှှေ့ဂဏ ််း(၅)ေံု်းအစဉ်ေိုက်တ  - ကျပ်(၃)သိ",
-          "prizeTitleEn": "ရှှေ့ဂဏ ််း(၅)ေံု်းအစဉ်ေိုက်တ  - ကျပ်(၃)သိ",
-          "prizeAmountMMK": 300000,
-          "matchType": "prefix_full",
-          "digits": 5,
-          "refDigits": "799480"
-        },
-        {
-          "ticketMy": "ဋ၁၂၇၆",
-          "prizeTypeId": 11,
-          "prizeTitleMy": "ရှှေ့ဂဏ ််း(၄)ေံု်းအစဉ်ေိုက်တ  - ကျပ်(၂)သိ",
-          "prizeTitleEn": "ရှှေ့ဂဏ ််း(၄)ေံု်းအစဉ်ေိုက်တ  - ကျပ်(၂)သိ",
-          "prizeAmountMMK": 200000,
-          "matchType": "prefix_full",
-          "digits": 4,
-          "refDigits": "799480"
-        },
-        {
-          "ticketMy": "ဋ၆၀၇၆",
-          "prizeTypeId": 11,
-          "prizeTitleMy": "ရှှေ့ဂဏ ််း(၄)ေံု်းအစဉ်ေိုက်တ  - ကျပ်(၂)သိ",
-          "prizeTitleEn": "ရှှေ့ဂဏ ််း(၄)ေံု်းအစဉ်ေိုက်တ  - ကျပ်(၂)သိ",
-          "prizeAmountMMK": 200000,
-          "matchType": "prefix_full",
-          "digits": 4,
-          "refDigits": "799480"
-        },
-        {
-          "ticketMy": "ည၇၈၆၃",
-          "prizeTypeId": 11,
-          "prizeTitleMy": "ရှှေ့ဂဏ ််း(၄)ေံု်းအစဉ်ေိုက်တ  - ကျပ်(၂)သိ",
-          "prizeTitleEn": "ရှှေ့ဂဏ ််း(၄)ေံု်းအစဉ်ေိုက်တ  - ကျပ်(၂)သိ",
-          "prizeAmountMMK": 200000,
-          "matchType": "prefix_full",
-          "digits": 4,
-          "refDigits": "799480"
-        },
-        {
-          "ticketMy": "ဇ၂၀၄၇",
-          "prizeTypeId": 11,
-          "prizeTitleMy": "ရှှေ့ဂဏ ််း(၄)ေံု်းအစဉ်ေိုက်တ  - ကျပ်(၂)သိ",
-          "prizeTitleEn": "ရှှေ့ဂဏ ််း(၄)ေံု်းအစဉ်ေိုက်တ  - ကျပ်(၂)သိ",
-          "prizeAmountMMK": 200000,
-          "matchType": "prefix_full",
-          "digits": 4,
-          "refDigits": "799480"
-        },
-        {
-          "ticketMy": "ဋ၇၃၀၁",
-          "prizeTypeId": 11,
-          "prizeTitleMy": "ရှှေ့ဂဏ ််း(၄)ေံု်းအစဉ်ေိုက်တ  - ကျပ်(၂)သိ",
-          "prizeTitleEn": "ရှှေ့ဂဏ ််း(၄)ေံု်းအစဉ်ေိုက်တ  - ကျပ်(၂)သိ",
-          "prizeAmountMMK": 200000,
-          "matchType": "prefix_full",
-          "digits": 4,
-          "refDigits": "799480"
-        },
-        {
-          "ticketMy": "ည၈၁၄၀",
-          "prizeTypeId": 11,
-          "prizeTitleMy": "ရှှေ့ဂဏ ််း(၄)ေံု်းအစဉ်ေိုက်တ  - ကျပ်(၂)သိ",
-          "prizeTitleEn": "ရှှေ့ဂဏ ််း(၄)ေံု်းအစဉ်ေိုက်တ  - ကျပ်(၂)သိ",
-          "prizeAmountMMK": 200000,
-          "matchType": "prefix_full",
-          "digits": 4,
-          "refDigits": "799480"
-        },
-        {
-          "ticketMy": "ဈ၃၅၉၅",
-          "prizeTypeId": 11,
-          "prizeTitleMy": "ရှှေ့ဂဏ ််း(၄)ေံု်းအစဉ်ေိုက်တ  - ကျပ်(၂)သိ",
-          "prizeTitleEn": "ရှှေ့ဂဏ ််း(၄)ေံု်းအစဉ်ေိုက်တ  - ကျပ်(၂)သိ",
-          "prizeAmountMMK": 200000,
-          "matchType": "prefix_full",
-          "digits": 4,
-          "refDigits": "799480"
-        },
-        {
-          "ticketMy": "ည၇၇၆၃",
-          "prizeTypeId": 11,
-          "prizeTitleMy": "ရှှေ့ဂဏ ််း(၄)ေံု်းအစဉ်ေိုက်တ  - ကျပ်(၂)သိ",
-          "prizeTitleEn": "ရှှေ့ဂဏ ််း(၄)ေံု်းအစဉ်ေိုက်တ  - ကျပ်(၂)သိ",
-          "prizeAmountMMK": 200000,
-          "matchType": "prefix_full",
-          "digits": 4,
-          "refDigits": "799480"
-        },
-        {
-          "ticketMy": "ည၈၆၀၆",
-          "prizeTypeId": 11,
-          "prizeTitleMy": "ရှှေ့ဂဏ ််း(၄)ေံု်းအစဉ်ေိုက်တ  - ကျပ်(၂)သိ",
-          "prizeTitleEn": "ရှှေ့ဂဏ ််း(၄)ေံု်းအစဉ်ေိုက်တ  - ကျပ်(၂)သိ",
-          "prizeAmountMMK": 200000,
-          "matchType": "prefix_full",
-          "digits": 4,
-          "refDigits": "799480"
-        },
-        {
-          "ticketMy": "င၄၃၄၈",
-          "prizeTypeId": 11,
-          "prizeTitleMy": "ရှှေ့ဂဏ ််း(၄)ေံု်းအစဉ်ေိုက်တ  - ကျပ်(၂)သိ",
-          "prizeTitleEn": "ရှှေ့ဂဏ ််း(၄)ေံု်းအစဉ်ေိုက်တ  - ကျပ်(၂)သိ",
-          "prizeAmountMMK": 200000,
-          "matchType": "prefix_full",
-          "digits": 4,
-          "refDigits": "799480"
-        },
-        {
-          "ticketMy": "ည၂၇၂၈",
-          "prizeTypeId": 11,
-          "prizeTitleMy": "ရှှေ့ဂဏ ််း(၄)ေံု်းအစဉ်ေိုက်တ  - ကျပ်(၂)သိ",
-          "prizeTitleEn": "ရှှေ့ဂဏ ််း(၄)ေံု်းအစဉ်ေိုက်တ  - ကျပ်(၂)သိ",
-          "prizeAmountMMK": 200000,
-          "matchType": "prefix_full",
-          "digits": 4,
-          "refDigits": "799480"
-        },
-        {
-          "ticketMy": "ဆ၇၃၂၈",
-          "prizeTypeId": 11,
-          "prizeTitleMy": "ရှှေ့ဂဏ ််း(၄)ေံု်းအစဉ်ေိုက်တ  - ကျပ်(၂)သိ",
-          "prizeTitleEn": "ရှှေ့ဂဏ ််း(၄)ေံု်းအစဉ်ေိုက်တ  - ကျပ်(၂)သိ",
-          "prizeAmountMMK": 200000,
-          "matchType": "prefix_full",
-          "digits": 4,
-          "refDigits": "799480"
-        },
-        {
-          "ticketMy": "ဂ၂၄၁",
-          "prizeTypeId": 12,
-          "prizeTitleMy": "ရှှေ့ဂဏ ််း(၃)ေံု်းအစဉ်ေိုက်တ ကျပ်(၁)သိ",
-          "prizeTitleEn": "ရှှေ့ဂဏ ််း(၃)ေံု်းအစဉ်ေိုက်တ ကျပ်(၁)သိ",
-          "prizeAmountMMK": 100000,
-          "matchType": "prefix_full",
-          "digits": 3,
-          "refDigits": "799480"
-        },
-        {
-          "ticketMy": "ခ၃၅၂",
-          "prizeTypeId": 12,
-          "prizeTitleMy": "ရှှေ့ဂဏ ််း(၃)ေံု်းအစဉ်ေိုက်တ ကျပ်(၁)သိ",
-          "prizeTitleEn": "ရှှေ့ဂဏ ််း(၃)ေံု်းအစဉ်ေိုက်တ ကျပ်(၁)သိ",
-          "prizeAmountMMK": 100000,
-          "matchType": "prefix_full",
-          "digits": 3,
-          "refDigits": "799480"
-        },
-        {
-          "ticketMy": "ဂ၁၁၅",
-          "prizeTypeId": 12,
-          "prizeTitleMy": "ရှှေ့ဂဏ ််း(၃)ေံု်းအစဉ်ေိုက်တ ကျပ်(၁)သိ",
-          "prizeTitleEn": "ရှှေ့ဂဏ ််း(၃)ေံု်းအစဉ်ေိုက်တ ကျပ်(၁)သိ",
-          "prizeAmountMMK": 100000,
-          "matchType": "prefix_full",
-          "digits": 3,
-          "refDigits": "799480"
-        },
-        {
-          "ticketMy": "ဇ၅၃၈",
-          "prizeTypeId": 12,
-          "prizeTitleMy": "ရှှေ့ဂဏ ််း(၃)ေံု်းအစဉ်ေိုက်တ ကျပ်(၁)သိ",
-          "prizeTitleEn": "ရှှေ့ဂဏ ််း(၃)ေံု်းအစဉ်ေိုက်တ ကျပ်(၁)သိ",
-          "prizeAmountMMK": 100000,
-          "matchType": "prefix_full",
-          "digits": 3,
-          "refDigits": "799480"
-        },
-        {
-          "ticketMy": "စ၆၉၃",
-          "prizeTypeId": 12,
-          "prizeTitleMy": "ရှှေ့ဂဏ ််း(၃)ေံု်းအစဉ်ေိုက်တ ကျပ်(၁)သိ",
-          "prizeTitleEn": "ရှှေ့ဂဏ ််း(၃)ေံု်းအစဉ်ေိုက်တ ကျပ်(၁)သိ",
-          "prizeAmountMMK": 100000,
-          "matchType": "prefix_full",
-          "digits": 3,
-          "refDigits": "799480"
-        },
-        {
-          "ticketMy": "ဆ၂၁၄",
-          "prizeTypeId": 12,
-          "prizeTitleMy": "ရှှေ့ဂဏ ််း(၃)ေံု်းအစဉ်ေိုက်တ ကျပ်(၁)သိ",
-          "prizeTitleEn": "ရှှေ့ဂဏ ််း(၃)ေံု်းအစဉ်ေိုက်တ ကျပ်(၁)သိ",
-          "prizeAmountMMK": 100000,
-          "matchType": "prefix_full",
-          "digits": 3,
-          "refDigits": "799480"
-        },
-        {
-          "ticketMy": "ဍ၅၅၀",
-          "prizeTypeId": 12,
-          "prizeTitleMy": "ရှှေ့ဂဏ ််း(၃)ေံု်းအစဉ်ေိုက်တ ကျပ်(၁)သိ",
-          "prizeTitleEn": "ရှှေ့ဂဏ ််း(၃)ေံု်းအစဉ်ေိုက်တ ကျပ်(၁)သိ",
-          "prizeAmountMMK": 100000,
-          "matchType": "prefix_full",
-          "digits": 3,
-          "refDigits": "799480"
-        },
-        {
-          "ticketMy": "ဍ၇၂၆",
-          "prizeTypeId": 12,
-          "prizeTitleMy": "ရှှေ့ဂဏ ််း(၃)ေံု်းအစဉ်ေိုက်တ ကျပ်(၁)သိ",
-          "prizeTitleEn": "ရှှေ့ဂဏ ််း(၃)ေံု်းအစဉ်ေိုက်တ ကျပ်(၁)သိ",
-          "prizeAmountMMK": 100000,
-          "matchType": "prefix_full",
-          "digits": 3,
-          "refDigits": "799480"
-        },
-        {
-          "ticketMy": "ဌ၂၁၈",
-          "prizeTypeId": 12,
-          "prizeTitleMy": "ရှှေ့ဂဏ ််း(၃)ေံု်းအစဉ်ေိုက်တ ကျပ်(၁)သိ",
-          "prizeTitleEn": "ရှှေ့ဂဏ ််း(၃)ေံု်းအစဉ်ေိုက်တ ကျပ်(၁)သိ",
-          "prizeAmountMMK": 100000,
-          "matchType": "prefix_full",
-          "digits": 3,
-          "refDigits": "799480"
-        },
-        {
-          "ticketMy": "ဃ၅၅၆",
-          "prizeTypeId": 12,
-          "prizeTitleMy": "ရှှေ့ဂဏ ််း(၃)ေံု်းအစဉ်ေိုက်တ ကျပ်(၁)သိ",
-          "prizeTitleEn": "ရှှေ့ဂဏ ််း(၃)ေံု်းအစဉ်ေိုက်တ ကျပ်(၁)သိ",
-          "prizeAmountMMK": 100000,
-          "matchType": "prefix_full",
-          "digits": 3,
-          "refDigits": "799480"
-        },
-        {
-          "ticketMy": "ဇ၈၄၇",
-          "prizeTypeId": 12,
-          "prizeTitleMy": "ရှှေ့ဂဏ ််း(၃)ေံု်းအစဉ်ေိုက်တ ကျပ်(၁)သိ",
-          "prizeTitleEn": "ရှှေ့ဂဏ ််း(၃)ေံု်းအစဉ်ေိုက်တ ကျပ်(၁)သိ",
-          "prizeAmountMMK": 100000,
-          "matchType": "prefix_full",
-          "digits": 3,
-          "refDigits": "799480"
-        },
-        {
-          "ticketMy": "ဌ၄၇၃",
-          "prizeTypeId": 12,
-          "prizeTitleMy": "ရှှေ့ဂဏ ််း(၃)ေံု်းအစဉ်ေိုက်တ ကျပ်(၁)သိ",
-          "prizeTitleEn": "ရှှေ့ဂဏ ််း(၃)ေံု်းအစဉ်ေိုက်တ ကျပ်(၁)သိ",
-          "prizeAmountMMK": 100000,
-          "matchType": "prefix_full",
-          "digits": 3,
-          "refDigits": "799480"
-        },
-        {
-          "ticketMy": "ဇ၁၅",
-          "prizeTypeId": 13,
-          "prizeTitleMy": "ရှှေ့ဂဏ ််း(၂)ေံု်း  အစဉ်ေိုက်တ  - ကျပ်(၅)နသေ",
-          "prizeTitleEn": "ရှှေ့ဂဏ ််း(၂)ေံု်း  အစဉ်ေိုက်တ  - ကျပ်(၅)နသေ",
-          "prizeAmountMMK": 50000,
-          "matchType": "prefix_full",
-          "digits": 2,
-          "refDigits": "799480"
-        },
-        {
-          "ticketMy": "ည၂၁",
-          "prizeTypeId": 13,
-          "prizeTitleMy": "ရှှေ့ဂဏ ််း(၂)ေံု်း  အစဉ်ေိုက်တ  - ကျပ်(၅)နသေ",
-          "prizeTitleEn": "ရှှေ့ဂဏ ််း(၂)ေံု်း  အစဉ်ေိုက်တ  - ကျပ်(၅)နသေ",
-          "prizeAmountMMK": 50000,
-          "matchType": "prefix_full",
-          "digits": 2,
-          "refDigits": "799480"
-        },
-        {
-          "ticketMy": "ည၂၁",
-          "prizeTypeId": 13,
-          "prizeTitleMy": "ရှှေ့ဂဏ ််း(၂)ေံု်း  အစဉ်ေိုက်တ  - ကျပ်(၅)နသေ",
-          "prizeTitleEn": "ရှှေ့ဂဏ ််း(၂)ေံု်း  အစဉ်ေိုက်တ  - ကျပ်(၅)နသေ",
-          "prizeAmountMMK": 50000,
-          "matchType": "prefix_full",
-          "digits": 2,
-          "refDigits": "799480"
-        },
-        {
-          "ticketMy": "ည၂၁",
-          "prizeTypeId": 13,
-          "prizeTitleMy": "ရှှေ့ဂဏ ််း(၂)ေံု်း  အစဉ်ေိုက်တ  - ကျပ်(၅)နသေ",
-          "prizeTitleEn": "ရှှေ့ဂဏ ််း(၂)ေံု်း  အစဉ်ေိုက်တ  - ကျပ်(၅)နသေ",
-          "prizeAmountMMK": 50000,
-          "matchType": "prefix_full",
-          "digits": 2,
-          "refDigits": "799480"
-        },
-        {
-          "ticketMy": "ခ၄၂",
-          "prizeTypeId": 13,
-          "prizeTitleMy": "ရှှေ့ဂဏ ််း(၂)ေံု်း  အစဉ်ေိုက်တ  - ကျပ်(၅)နသေ",
-          "prizeTitleEn": "ရှှေ့ဂဏ ််း(၂)ေံု်း  အစဉ်ေိုက်တ  - ကျပ်(၅)နသေ",
-          "prizeAmountMMK": 50000,
-          "matchType": "prefix_full",
-          "digits": 2,
-          "refDigits": "799480"
-        },
-        {
-          "ticketMy": "ဃ၅၇",
-          "prizeTypeId": 13,
-          "prizeTitleMy": "ရှှေ့ဂဏ ််း(၂)ေံု်း  အစဉ်ေိုက်တ  - ကျပ်(၅)နသေ",
-          "prizeTitleEn": "ရှှေ့ဂဏ ််း(၂)ေံု်း  အစဉ်ေိုက်တ  - ကျပ်(၅)နသေ",
-          "prizeAmountMMK": 50000,
-          "matchType": "prefix_full",
-          "digits": 2,
-          "refDigits": "799480"
-        },
-        {
-          "ticketMy": "ဆ၈",
-          "prizeTypeId": 14,
-          "prizeTitleMy": "ရှှေ့ဂဏ ််း(၁)ေံု်း  အစဉ်ေိုက်တ  - ကျပ်(၁)နသေ",
-          "prizeTitleEn": "ရှှေ့ဂဏ ််း(၁)ေံု်း  အစဉ်ေိုက်တ  - ကျပ်(၁)နသေ",
-          "prizeAmountMMK": 10000,
-          "matchType": "prefix_full",
-          "digits": 1,
-          "refDigits": "799480"
-        }
-      ]
+      "id": 1,
+      "titleMM": "ထီဖွင့်ပွဲ အကြီးဆု",
+      "titleEN": "Grand Prize",
+      "titles": [
+        "အကြီးဆု",
+        "ထီဖွင့်ပွဲ",
+        "Grand Prize",
+        "ဆုကြီး"
+      ],
+      "rewardsMMK": 500000000,
+      "defaultMatchType": "full",
+      "defaultDigits": null,
+      "defaultWinnerCount": 1,
+      "lotteryType": "paper"
     },
     {
-      "termName": "31th Term",
-      "termNameMy": "အွန်လိုင်းထီ အကြိမ် (၃၁)",
-      "drawDate": 1770790851058,
-      "drawDateFormatted": "2026-02-11",
-      "lotteryType": "online",
+      "id": 2,
+      "titleMM": "ဒုတိယဆု",
+      "titleEN": "Second Prize",
+      "titles": [
+        "ဒုတိယဆု",
+        "ဒုတိယ",
+        "2nd Prize"
+      ],
+      "rewardsMMK": 200000000,
+      "defaultMatchType": "full",
+      "defaultDigits": null,
+      "defaultWinnerCount": null,
+      "lotteryType": "paper"
+    },
+    {
+      "id": 3,
+      "titleMM": "တတိယဆု",
+      "titleEN": "Third Prize",
+      "titles": [
+        "တတိယဆု",
+        "တတိယ",
+        "3rd Prize"
+      ],
+      "rewardsMMK": 100000000,
+      "defaultMatchType": "full",
+      "defaultDigits": null,
+      "defaultWinnerCount": null,
+      "lotteryType": "paper"
+    },
+    {
+      "id": 4,
+      "titleMM": "စတုတ္ထဆု",
+      "titleEN": "4th Prize",
+      "titles": [
+        "စတုတ္ထ",
+        "4th",
+        "4th Prize"
+      ],
+      "rewardsMMK": 50000000,
+      "defaultMatchType": "full",
+      "defaultDigits": null,
+      "defaultWinnerCount": null,
+      "lotteryType": "paper"
+    },
+    {
+      "id": 5,
+      "titleMM": "ပဉ္စမဆု",
+      "titleEN": "5th Prize",
+      "titles": [
+        "ပဉ္စမ",
+        "5th",
+        "5th Prize"
+      ],
+      "rewardsMMK": 30000000,
+      "defaultMatchType": "full",
+      "defaultDigits": null,
+      "defaultWinnerCount": null,
+      "lotteryType": "paper"
+    },
+    {
+      "id": 6,
+      "titleMM": "ဆဋ္ဌမဆု",
+      "titleEN": "6th Prize",
+      "titles": [
+        "ဆဋ္ဌမ",
+        "6th",
+        "6th Prize"
+      ],
+      "rewardsMMK": 20000000,
+      "defaultMatchType": "full",
+      "defaultDigits": null,
+      "defaultWinnerCount": null,
+      "lotteryType": "paper"
+    },
+    {
+      "id": 7,
+      "titleMM": "သတ္တမဆု",
+      "titleEN": "7th Prize",
+      "titles": [
+        "သတ္တမ",
+        "7th",
+        "7th Prize"
+      ],
+      "rewardsMMK": 10000000,
+      "defaultMatchType": "full",
+      "defaultDigits": null,
+      "defaultWinnerCount": null,
+      "lotteryType": "paper"
+    },
+    {
+      "id": 8,
+      "titleMM": "အဋ္ဌမဆု",
+      "titleEN": "8th Prize",
+      "titles": [
+        "အဋ္ဌမ",
+        "8th",
+        "8th Prize"
+      ],
+      "rewardsMMK": 5000000,
+      "defaultMatchType": "full",
+      "defaultDigits": null,
+      "defaultWinnerCount": null,
+      "lotteryType": "paper"
+    },
+    {
+      "id": 9,
+      "titleMM": "နဝမဆု",
+      "titleEN": "9th Prize",
+      "titles": [
+        "နဝမ",
+        "9th",
+        "9th Prize"
+      ],
+      "rewardsMMK": 3000000,
+      "defaultMatchType": "full",
+      "defaultDigits": null,
+      "defaultWinnerCount": null,
+      "lotteryType": "paper"
+    },
+    {
+      "id": 10,
+      "titleMM": "ရှေ့ဂဏန်း (၅) လုံး တူ",
+      "titleEN": "First 5 Digits Match",
+      "titles": [
+        "ရှေ့ဂဏန်း",
+        "ဂဏန်း(၅)လုံး",
+        "5 Digits"
+      ],
+      "rewardsMMK": 300000,
+      "defaultMatchType": "prefix_full",
+      "defaultDigits": 5,
+      "defaultWinnerCount": null,
+      "lotteryType": "paper"
+    },
+    {
+      "id": 11,
+      "titleMM": "ရှေ့ဂဏန်း (၄) လုံး တူ",
+      "titleEN": "First 4 Digits Match",
+      "titles": [
+        "ဂဏန်း(၄)လုံး",
+        "4 Digits"
+      ],
+      "rewardsMMK": 200000,
+      "defaultMatchType": "prefix_full",
+      "defaultDigits": 4,
+      "defaultWinnerCount": null,
+      "lotteryType": null
+    },
+    {
+      "id": 12,
+      "titleMM": "ရှေ့ဂဏန်း (၃) လုံး တူ",
+      "titleEN": "First 3 Digits Match",
+      "titles": [
+        "ဂဏန်း(၃)လုံး",
+        "3 Digits"
+      ],
+      "rewardsMMK": 100000,
+      "defaultMatchType": "prefix_full",
+      "defaultDigits": 3,
+      "defaultWinnerCount": null,
+      "lotteryType": null
+    },
+    {
+      "id": 13,
+      "titleMM": "ရှေ့ဂဏန်း (၂) လုံး တူ",
+      "titleEN": "First 2 Digits Match",
+      "titles": [
+        "ဂဏန်း(၂)လုံး",
+        "2 Digits"
+      ],
+      "rewardsMMK": 50000,
+      "defaultMatchType": "prefix_full",
+      "defaultDigits": 2,
+      "defaultWinnerCount": null,
+      "lotteryType": null
+    },
+    {
+      "id": 14,
+      "titleMM": "ရှေ့ဂဏန်း (၁) လုံး တူ",
+      "titleEN": "First 1 Digit Match",
+      "titles": [
+        "ဂဏန်း(၁)လုံး",
+        "1 Digit"
+      ],
+      "rewardsMMK": 10000,
+      "defaultMatchType": "prefix_full",
+      "defaultDigits": 1,
+      "defaultWinnerCount": null,
+      "lotteryType": null
+    },
+    {
+      "id": 15,
+      "titleMM": "ဒသမဆု",
+      "titleEN": "10th Prize",
+      "titles": [
+        "ဒသမ",
+        "10th",
+        "10th Prize",
+        "(၁၀)သိန်း"
+      ],
+      "rewardsMMK": 1000000,
+      "defaultMatchType": "full",
+      "defaultDigits": null,
+      "defaultWinnerCount": null,
+      "lotteryType": "paper"
+    },
+    {
+      "id": 20,
+      "titleMM": "Jackpot",
+      "titleEN": "Jackpot (500 Lakhs)",
+      "titles": [
+        "Jackpot",
+        "ဆုကြီး",
+        "jackpot"
+      ],
+      "rewardsMMK": 500000000,
+      "defaultMatchType": "full",
+      "defaultDigits": null,
+      "defaultWinnerCount": 1,
+      "lotteryType": "online"
+    },
+    {
+      "id": 21,
+      "titleMM": "ဆတိုးထီဆုကြီး",
+      "titleEN": "Jackpot (2000 Lakhs)",
+      "titles": [
+        "ဆတိုး",
+        "ဆတိုးထီဆုကြီး",
+        "2000 Lakhs"
+      ],
+      "rewardsMMK": 2000000000,
+      "defaultMatchType": "full",
+      "defaultDigits": null,
+      "defaultWinnerCount": 1,
+      "lotteryType": "online"
+    },
+    {
+      "id": 22,
+      "titleMM": "စတုတ္ထဆု",
+      "titleEN": "4th Prize (50 Lakhs)",
+      "titles": [
+        "စတုတ္ထ",
+        "4th Prize",
+        "50 Lakhs"
+      ],
+      "rewardsMMK": 50000000,
+      "defaultMatchType": "full",
+      "defaultDigits": null,
+      "defaultWinnerCount": null,
+      "lotteryType": "online"
+    },
+    {
+      "id": 23,
+      "titleMM": "ပဉ္စမဆု",
+      "titleEN": "5th Prize (20 Lakhs)",
+      "titles": [
+        "ပဉ္စမ",
+        "5th Prize",
+        "20 Lakhs"
+      ],
+      "rewardsMMK": 20000000,
+      "defaultMatchType": "full",
+      "defaultDigits": null,
+      "defaultWinnerCount": null,
+      "lotteryType": "online"
+    },
+    {
+      "id": 24,
+      "titleMM": "ဆဋ္ဌမဆု",
+      "titleEN": "6th Prize (10 Lakhs)",
+      "titles": [
+        "ဆဋ္ဌမ",
+        "6th Prize",
+        "10 Lakhs"
+      ],
+      "rewardsMMK": 10000000,
+      "defaultMatchType": "full",
+      "defaultDigits": null,
+      "defaultWinnerCount": null,
+      "lotteryType": "online"
+    },
+    {
+      "id": 25,
+      "titleMM": "ဝေဝေဆာဆာ ၂သိန်း",
+      "titleEN": "Consolation 2 Lakhs",
+      "titles": [
+        "ဝေဝေဆာဆာ",
+        "Consolation"
+      ],
+      "rewardsMMK": 2000000,
+      "defaultMatchType": "full",
+      "defaultDigits": null,
+      "defaultWinnerCount": null,
+      "lotteryType": "online"
+    },
+    {
+      "id": 26,
+      "titleMM": "ဝေဝေဆာဆာ ၁သိန်း",
+      "titleEN": "Consolation 1 Lakh",
+      "titles": [
+        "ဝေဝေဆာဆာ"
+      ],
+      "rewardsMMK": 1000000,
+      "defaultMatchType": "full",
+      "defaultDigits": null,
+      "defaultWinnerCount": null,
+      "lotteryType": "online"
+    },
+    {
+      "id": 27,
+      "titleMM": "ဝေဝေဆာဆာ ၅သောင်း",
+      "titleEN": "Consolation 50K",
+      "titles": [
+        "ဝေဝေဆာဆာ"
+      ],
+      "rewardsMMK": 500000,
+      "defaultMatchType": "full",
+      "defaultDigits": null,
+      "defaultWinnerCount": null,
+      "lotteryType": "online"
+    },
+    {
+      "id": 28,
+      "titleMM": "ဝေဝေဆာဆာ ၂သိန်း",
+      "titleEN": "Consolation 2 Lakhs",
+      "rewardsMMK": 200000,
+      "defaultMatchType": "full",
+      "defaultDigits": null
+    },
+    {
+      "id": 29,
+      "titleMM": "ဝေဝေဆာဆာ ၁သိန်း",
+      "titleEN": "Consolation 1 Lakh",
+      "rewardsMMK": 100000,
+      "defaultMatchType": "full",
+      "defaultDigits": null
+    },
+    {
+      "id": 30,
+      "titleMM": "ဝေဝေဆာဆာ ၅သောင်း",
+      "titleEN": "Consolation 50K",
+      "rewardsMMK": 50000,
+      "defaultMatchType": "full",
+      "defaultDigits": null
+    }
+  ],
+  "draws": [
+    {
+      "date": "2026",
+      "drawDate": "2026-02-01",
+      "lotteryTypeId": 1,
+      "lotteryType": "paper",
+      "term": 83,
       "prizes": [
         {
-          "ticketMy": "တ-37618",
-          "ticketEng": "တ-37618",
-          "prizeTypeId": 2,
-          "prizeTitleMy": "Second Prize (2000 Lakhs)",
-          "prizeTitleEn": "Second Prize (2000 Lakhs)",
-          "nameMy": "Second Prize (2000 Lakhs)",
-          "nameEng": "Second Prize",
-          "prizeAmountMMK": 200000000,
+          "prizeId": 1,
           "matchType": "full",
-          "digits": 5
+          "digits": 6,
+          "results": [
+            "ည-799480"
+          ],
+          "flagged": false,
+          "rawLabel": "Grand Prize",
+          "customTitle": "အထူးဆုကြီး ကျပ်သိန်း (၅၀၀၀) ဆု"
         },
         {
-          "ticketMy": "ဖ-24345",
-          "ticketEng": "ဖ-24345",
-          "prizeTypeId": 4,
-          "prizeTitleMy": "4th Prize (500 Lakhs)",
-          "prizeTitleEn": "4th Prize (500 Lakhs)",
-          "nameMy": "4th Prize (500 Lakhs)",
-          "nameEng": "4th Prize",
-          "prizeAmountMMK": 50000000,
+          "prizeId": 2,
           "matchType": "full",
-          "digits": 5
+          "digits": 6,
+          "results": [
+            "ဍ-349078",
+            "င-888465"
+          ],
+          "flagged": false,
+          "rawLabel": "Second Prize",
+          "customTitle": "အထူးဆုကြီး ကျပ်သိန်း (၂၀၀၀) ဆုများ"
         },
         {
-          "ticketMy": "က-86906",
-          "ticketEng": "က-86906",
-          "prizeTypeId": 4,
-          "prizeTitleMy": "4th Prize (500 Lakhs)",
-          "prizeTitleEn": "4th Prize (500 Lakhs)",
-          "nameMy": "4th Prize (500 Lakhs)",
-          "nameEng": "4th Prize",
-          "prizeAmountMMK": 50000000,
+          "prizeId": 3,
           "matchType": "full",
-          "digits": 5
+          "digits": 6,
+          "results": [
+            "ဋ-122906",
+            "ဋ-926623",
+            "ဋ-212642"
+          ],
+          "flagged": false,
+          "rawLabel": "Third Prize",
+          "customTitle": "အထူး စး ကျဝ်သိနိး (၁၀၀၀ စ္စ"
         },
         {
-          "ticketMy": "ည-12026",
-          "ticketEng": "ည-12026",
-          "prizeTypeId": 6,
-          "prizeTitleMy": "6th Prize (200 Lakhs)",
-          "prizeTitleEn": "6th Prize (200 Lakhs)",
-          "nameMy": "6th Prize (200 Lakhs)",
-          "nameEng": "6th Prize",
-          "prizeAmountMMK": 20000000,
+          "prizeId": 4,
           "matchType": "full",
-          "digits": 5
+          "digits": 6,
+          "results": [
+            "ဌ-110057",
+            "ဆ-419434",
+            "ဃ-114266",
+            "ဆ-672199",
+            "ဋ-221757",
+            "က-753718",
+            "စ-278251",
+            "ဇ-816662",
+            "ဇ-414394",
+            "င-957624"
+          ],
+          "flagged": false,
+          "rawLabel": "4th Prize",
+          "customTitle": "ဆုတစ်ဆုချင်း ကျပ်သိန်း(၅၀)ဆုများ"
         },
         {
-          "ticketMy": "ဗ-30931",
-          "ticketEng": "ဗ-30931",
-          "prizeTypeId": 6,
-          "prizeTitleMy": "6th Prize (200 Lakhs)",
-          "prizeTitleEn": "6th Prize (200 Lakhs)",
-          "nameMy": "6th Prize (200 Lakhs)",
-          "nameEng": "6th Prize",
-          "prizeAmountMMK": 20000000,
+          "prizeId": 5,
           "matchType": "full",
-          "digits": 5
+          "digits": 6,
+          "results": [
+            "ဂ-227923",
+            "ဋ-709334",
+            "စ-839537",
+            "ဍ-251890",
+            "ဍ-751912",
+            "ဍ-882277",
+            "ည-286873",
+            "င-764709",
+            "ဆ-927575",
+            "ဍ-488498",
+            "ဍ-790777",
+            "က-994818"
+          ],
+          "flagged": false,
+          "rawLabel": "5th Prize",
+          "customTitle": "ဆုတစ်ဆုချင်း ကျပ်သိန်း(၂၀)ဆုများ"
         },
         {
-          "ticketMy": "သ-35335",
-          "ticketEng": "သ-35335",
-          "prizeTypeId": 6,
-          "prizeTitleMy": "6th Prize (200 Lakhs)",
-          "prizeTitleEn": "6th Prize (200 Lakhs)",
-          "nameMy": "6th Prize (200 Lakhs)",
-          "nameEng": "6th Prize",
-          "prizeAmountMMK": 20000000,
+          "prizeId": 6,
           "matchType": "full",
-          "digits": 5
+          "digits": 6,
+          "results": [
+            "ဈ-138020",
+            "စ-346633",
+            "ခ-730693",
+            "ဋ-225135",
+            "င-350529",
+            "ဋ-805668",
+            "ဂ-235684",
+            "ည-430243",
+            "ဂ-879803",
+            "ဌ-256254",
+            "င-646211",
+            "က-996445",
+            "ည-297193",
+            "င-693283"
+          ],
+          "flagged": false,
+          "rawLabel": "6th Prize",
+          "customTitle": "ဆုတစ်ဆုချင်း ကျပ်(၁၀)သိန်းဆုများ"
         },
         {
-          "ticketMy": "ဂ-40092",
-          "ticketEng": "ဂ-40092",
-          "prizeTypeId": 6,
-          "prizeTitleMy": "6th Prize (200 Lakhs)",
-          "prizeTitleEn": "6th Prize (200 Lakhs)",
-          "nameMy": "6th Prize (200 Lakhs)",
-          "nameEng": "6th Prize",
-          "prizeAmountMMK": 20000000,
+          "prizeId": 7,
           "matchType": "full",
-          "digits": 5
+          "digits": 6,
+          "results": [
+            "က-102078",
+            "က-434285",
+            "ဂ-157260",
+            "ဋ-458936",
+            "ဋ-172225",
+            "ဌ-626245",
+            "ဈ-198933",
+            "ဂ-693992",
+            "စ-300415",
+            "ဇ-726528",
+            "ဇ-330907",
+            "ဌ-923468",
+            "ခ-406946",
+            "ဋ-941642",
+            "င-420046",
+            "ဇ-979213"
+          ],
+          "flagged": false,
+          "rawLabel": "7th Prize",
+          "customTitle": "7th Prize (100 Lakhs)"
         },
         {
-          "ticketMy": "ဓ-21624",
-          "ticketEng": "ဓ-21624",
-          "prizeTypeId": 7,
-          "prizeTitleMy": "7th Prize (100 Lakhs)",
-          "prizeTitleEn": "7th Prize (100 Lakhs)",
-          "nameMy": "7th Prize (100 Lakhs)",
-          "nameEng": "7th Prize",
-          "prizeAmountMMK": 10000000,
+          "prizeId": 8,
           "matchType": "full",
-          "digits": 5
+          "digits": 6,
+          "results": [
+            "စ-141799",
+            "က-429334",
+            "ဋ-744452",
+            "ဋ-180202",
+            "ဌ-436097",
+            "ဆ-902018",
+            "ဇ-195036",
+            "ဈ-460104",
+            "ဇ-907890",
+            "က-227015",
+            "ဂ-531436",
+            "ဇ-925258",
+            "ခ-256920",
+            "ဋ-555865",
+            "ခ-936507",
+            "ဃ-269903",
+            "ဌ-714111",
+            "ည-964230",
+            "က-378931",
+            "ခ-723400",
+            "စ-986101",
+            "င-429324"
+          ],
+          "flagged": false,
+          "rawLabel": "8th Prize",
+          "customTitle": "8th Prize (50 Lakhs)"
         },
         {
-          "ticketMy": "လ-22566",
-          "ticketEng": "လ-22566",
-          "prizeTypeId": 7,
-          "prizeTitleMy": "7th Prize (100 Lakhs)",
-          "prizeTitleEn": "7th Prize (100 Lakhs)",
-          "nameMy": "7th Prize (100 Lakhs)",
-          "nameEng": "7th Prize",
-          "prizeAmountMMK": 10000000,
+          "prizeId": 9,
           "matchType": "full",
-          "digits": 5
+          "digits": 6,
+          "results": [
+            "ဂ-111080",
+            "ဈ-469313",
+            "ဂ-148832",
+            "ဈ-530274",
+            "ဃ-153801",
+            "ဍ-693054",
+            "ဃ-154683",
+            "စ-695635",
+            "ဆ-199935",
+            "စ-718558",
+            "က-215040",
+            "ဇ-731015",
+            "ဂ-298145",
+            "က-763861",
+            "ဌ-338696",
+            "ဂ-796394",
+            "ဆ-401208",
+            "ဂ-823702",
+            "ဆ-404982",
+            "က-906513",
+            "ဋ-426234",
+            "ည-910731",
+            "ဇ-444761",
+            "ဍ-991581",
+            "ည-447702",
+            "ဇ-997551"
+          ],
+          "flagged": false,
+          "rawLabel": "9th Prize",
+          "customTitle": "9th Prize (30 Lakhs)"
         },
         {
-          "ticketMy": "ခ-49844",
-          "ticketEng": "ခ-49844",
-          "prizeTypeId": 7,
-          "prizeTitleMy": "7th Prize (100 Lakhs)",
-          "prizeTitleEn": "7th Prize (100 Lakhs)",
-          "nameMy": "7th Prize (100 Lakhs)",
-          "nameEng": "7th Prize",
-          "prizeAmountMMK": 10000000,
+          "prizeId": 15,
           "matchType": "full",
-          "digits": 5
+          "digits": 6,
+          "results": [
+            "ဈ-132797",
+            "င-451673",
+            "င-173641",
+            "ည-939543"
+          ],
+          "flagged": false,
+          "rawLabel": "10th Prize",
+          "customTitle": "10th Prize (10 Lakhs)"
         },
         {
-          "ticketMy": "သ-96282",
-          "ticketEng": "သ-96282",
-          "prizeTypeId": 7,
-          "prizeTitleMy": "7th Prize (100 Lakhs)",
-          "prizeTitleEn": "7th Prize (100 Lakhs)",
-          "nameMy": "7th Prize (100 Lakhs)",
-          "nameEng": "7th Prize",
-          "prizeAmountMMK": 10000000,
-          "matchType": "full",
-          "digits": 5
-        },
-        {
-          "ticketMy": "ည-21848",
-          "ticketEng": "ည-21848",
-          "prizeTypeId": 8,
-          "prizeTitleMy": "8th Prize (50 Lakhs)",
-          "prizeTitleEn": "8th Prize (50 Lakhs)",
-          "nameMy": "8th Prize (50 Lakhs)",
-          "nameEng": "8th Prize",
-          "prizeAmountMMK": 5000000,
-          "matchType": "full",
-          "digits": 5
-        },
-        {
-          "ticketMy": "င-22636",
-          "ticketEng": "င-22636",
-          "prizeTypeId": 8,
-          "prizeTitleMy": "8th Prize (50 Lakhs)",
-          "prizeTitleEn": "8th Prize (50 Lakhs)",
-          "nameMy": "8th Prize (50 Lakhs)",
-          "nameEng": "8th Prize",
-          "prizeAmountMMK": 5000000,
-          "matchType": "full",
-          "digits": 5
-        },
-        {
-          "ticketMy": "ဝ-58691",
-          "ticketEng": "ဝ-58691",
-          "prizeTypeId": 8,
-          "prizeTitleMy": "8th Prize (50 Lakhs)",
-          "prizeTitleEn": "8th Prize (50 Lakhs)",
-          "nameMy": "8th Prize (50 Lakhs)",
-          "nameEng": "8th Prize",
-          "prizeAmountMMK": 5000000,
-          "matchType": "full",
-          "digits": 5
-        },
-        {
-          "ticketMy": "ဓ-59506",
-          "ticketEng": "ဓ-59506",
-          "prizeTypeId": 8,
-          "prizeTitleMy": "8th Prize (50 Lakhs)",
-          "prizeTitleEn": "8th Prize (50 Lakhs)",
-          "nameMy": "8th Prize (50 Lakhs)",
-          "nameEng": "8th Prize",
-          "prizeAmountMMK": 5000000,
-          "matchType": "full",
-          "digits": 5
-        },
-        {
-          "ticketMy": "ဂ-79941",
-          "ticketEng": "ဂ-79941",
-          "prizeTypeId": 8,
-          "prizeTitleMy": "8th Prize (50 Lakhs)",
-          "prizeTitleEn": "8th Prize (50 Lakhs)",
-          "nameMy": "8th Prize (50 Lakhs)",
-          "nameEng": "8th Prize",
-          "prizeAmountMMK": 5000000,
-          "matchType": "full",
-          "digits": 5
-        },
-        {
-          "ticketMy": "ဘ-87222",
-          "ticketEng": "ဘ-87222",
-          "prizeTypeId": 8,
-          "prizeTitleMy": "8th Prize (50 Lakhs)",
-          "prizeTitleEn": "8th Prize (50 Lakhs)",
-          "nameMy": "8th Prize (50 Lakhs)",
-          "nameEng": "8th Prize",
-          "prizeAmountMMK": 5000000,
-          "matchType": "full",
-          "digits": 5
-        },
-        {
-          "ticketMy": "ယ-92264",
-          "ticketEng": "ယ-92264",
-          "prizeTypeId": 8,
-          "prizeTitleMy": "8th Prize (50 Lakhs)",
-          "prizeTitleEn": "8th Prize (50 Lakhs)",
-          "nameMy": "8th Prize (50 Lakhs)",
-          "nameEng": "8th Prize",
-          "prizeAmountMMK": 5000000,
-          "matchType": "full",
-          "digits": 5
-        },
-        {
-          "ticketMy": "ပ-96622",
-          "ticketEng": "ပ-96622",
-          "prizeTypeId": 8,
-          "prizeTitleMy": "8th Prize (50 Lakhs)",
-          "prizeTitleEn": "8th Prize (50 Lakhs)",
-          "nameMy": "8th Prize (50 Lakhs)",
-          "nameEng": "8th Prize",
-          "prizeAmountMMK": 5000000,
-          "matchType": "full",
-          "digits": 5
-        },
-        {
-          "ticketMy": "ဈ-10527",
-          "ticketEng": "ဈ-10527",
-          "prizeTypeId": 25,
-          "prizeTitleMy": "Consolation 2 Lakhs (20 Lakhs)",
-          "prizeTitleEn": "Consolation 2 Lakhs (20 Lakhs)",
-          "nameMy": "Consolation 2 Lakhs (20 Lakhs)",
-          "nameEng": "Consolation 2 Lakhs",
-          "prizeAmountMMK": 2000000,
-          "matchType": "full",
-          "digits": 5
-        },
-        {
-          "ticketMy": "ဇ-21559",
-          "ticketEng": "ဇ-21559",
-          "prizeTypeId": 25,
-          "prizeTitleMy": "Consolation 2 Lakhs (20 Lakhs)",
-          "prizeTitleEn": "Consolation 2 Lakhs (20 Lakhs)",
-          "nameMy": "Consolation 2 Lakhs (20 Lakhs)",
-          "nameEng": "Consolation 2 Lakhs",
-          "prizeAmountMMK": 2000000,
-          "matchType": "full",
-          "digits": 5
-        },
-        {
-          "ticketMy": "ဘ-38627",
-          "ticketEng": "ဘ-38627",
-          "prizeTypeId": 25,
-          "prizeTitleMy": "Consolation 2 Lakhs (20 Lakhs)",
-          "prizeTitleEn": "Consolation 2 Lakhs (20 Lakhs)",
-          "nameMy": "Consolation 2 Lakhs (20 Lakhs)",
-          "nameEng": "Consolation 2 Lakhs",
-          "prizeAmountMMK": 2000000,
-          "matchType": "full",
-          "digits": 5
-        },
-        {
-          "ticketMy": "ဇ-45243",
-          "ticketEng": "ဇ-45243",
-          "prizeTypeId": 25,
-          "prizeTitleMy": "Consolation 2 Lakhs (20 Lakhs)",
-          "prizeTitleEn": "Consolation 2 Lakhs (20 Lakhs)",
-          "nameMy": "Consolation 2 Lakhs (20 Lakhs)",
-          "nameEng": "Consolation 2 Lakhs",
-          "prizeAmountMMK": 2000000,
-          "matchType": "full",
-          "digits": 5
-        },
-        {
-          "ticketMy": "ည-54660",
-          "ticketEng": "ည-54660",
-          "prizeTypeId": 25,
-          "prizeTitleMy": "Consolation 2 Lakhs (20 Lakhs)",
-          "prizeTitleEn": "Consolation 2 Lakhs (20 Lakhs)",
-          "nameMy": "Consolation 2 Lakhs (20 Lakhs)",
-          "nameEng": "Consolation 2 Lakhs",
-          "prizeAmountMMK": 2000000,
-          "matchType": "full",
-          "digits": 5
-        },
-        {
-          "ticketMy": "က-61379",
-          "ticketEng": "က-61379",
-          "prizeTypeId": 25,
-          "prizeTitleMy": "Consolation 2 Lakhs (20 Lakhs)",
-          "prizeTitleEn": "Consolation 2 Lakhs (20 Lakhs)",
-          "nameMy": "Consolation 2 Lakhs (20 Lakhs)",
-          "nameEng": "Consolation 2 Lakhs",
-          "prizeAmountMMK": 2000000,
-          "matchType": "full",
-          "digits": 5
-        },
-        {
-          "ticketMy": "လ-74013",
-          "ticketEng": "လ-74013",
-          "prizeTypeId": 25,
-          "prizeTitleMy": "Consolation 2 Lakhs (20 Lakhs)",
-          "prizeTitleEn": "Consolation 2 Lakhs (20 Lakhs)",
-          "nameMy": "Consolation 2 Lakhs (20 Lakhs)",
-          "nameEng": "Consolation 2 Lakhs",
-          "prizeAmountMMK": 2000000,
-          "matchType": "full",
-          "digits": 5
-        },
-        {
-          "ticketMy": "ပ-82344",
-          "ticketEng": "ပ-82344",
-          "prizeTypeId": 25,
-          "prizeTitleMy": "Consolation 2 Lakhs (20 Lakhs)",
-          "prizeTitleEn": "Consolation 2 Lakhs (20 Lakhs)",
-          "nameMy": "Consolation 2 Lakhs (20 Lakhs)",
-          "nameEng": "Consolation 2 Lakhs",
-          "prizeAmountMMK": 2000000,
-          "matchType": "full",
-          "digits": 5
-        },
-        {
-          "ticketMy": "ဒ-89856",
-          "ticketEng": "ဒ-89856",
-          "prizeTypeId": 25,
-          "prizeTitleMy": "Consolation 2 Lakhs (20 Lakhs)",
-          "prizeTitleEn": "Consolation 2 Lakhs (20 Lakhs)",
-          "nameMy": "Consolation 2 Lakhs (20 Lakhs)",
-          "nameEng": "Consolation 2 Lakhs",
-          "prizeAmountMMK": 2000000,
-          "matchType": "full",
-          "digits": 5
-        },
-        {
-          "ticketMy": "ဘ-10339",
-          "ticketEng": "ဘ-10339",
-          "prizeTypeId": 15,
-          "prizeTitleMy": "10th Prize (10 Lakhs)",
-          "prizeTitleEn": "10th Prize (10 Lakhs)",
-          "nameMy": "10th Prize (10 Lakhs)",
-          "nameEng": "10th Prize",
-          "prizeAmountMMK": 1000000,
-          "matchType": "full",
-          "digits": 5
-        },
-        {
-          "ticketMy": "ဂ-11795",
-          "ticketEng": "ဂ-11795",
-          "prizeTypeId": 15,
-          "prizeTitleMy": "10th Prize (10 Lakhs)",
-          "prizeTitleEn": "10th Prize (10 Lakhs)",
-          "nameMy": "10th Prize (10 Lakhs)",
-          "nameEng": "10th Prize",
-          "prizeAmountMMK": 1000000,
-          "matchType": "full",
-          "digits": 5
-        },
-        {
-          "ticketMy": "ရ-43665",
-          "ticketEng": "ရ-43665",
-          "prizeTypeId": 15,
-          "prizeTitleMy": "10th Prize (10 Lakhs)",
-          "prizeTitleEn": "10th Prize (10 Lakhs)",
-          "nameMy": "10th Prize (10 Lakhs)",
-          "nameEng": "10th Prize",
-          "prizeAmountMMK": 1000000,
-          "matchType": "full",
-          "digits": 5
-        },
-        {
-          "ticketMy": "န-48629",
-          "ticketEng": "န-48629",
-          "prizeTypeId": 15,
-          "prizeTitleMy": "10th Prize (10 Lakhs)",
-          "prizeTitleEn": "10th Prize (10 Lakhs)",
-          "nameMy": "10th Prize (10 Lakhs)",
-          "nameEng": "10th Prize",
-          "prizeAmountMMK": 1000000,
-          "matchType": "full",
-          "digits": 5
-        },
-        {
-          "ticketMy": "မ-48708",
-          "ticketEng": "မ-48708",
-          "prizeTypeId": 15,
-          "prizeTitleMy": "10th Prize (10 Lakhs)",
-          "prizeTitleEn": "10th Prize (10 Lakhs)",
-          "nameMy": "10th Prize (10 Lakhs)",
-          "nameEng": "10th Prize",
-          "prizeAmountMMK": 1000000,
-          "matchType": "full",
-          "digits": 5
-        },
-        {
-          "ticketMy": "ပ-48935",
-          "ticketEng": "ပ-48935",
-          "prizeTypeId": 15,
-          "prizeTitleMy": "10th Prize (10 Lakhs)",
-          "prizeTitleEn": "10th Prize (10 Lakhs)",
-          "nameMy": "10th Prize (10 Lakhs)",
-          "nameEng": "10th Prize",
-          "prizeAmountMMK": 1000000,
-          "matchType": "full",
-          "digits": 5
-        },
-        {
-          "ticketMy": "တ-49309",
-          "ticketEng": "တ-49309",
-          "prizeTypeId": 15,
-          "prizeTitleMy": "10th Prize (10 Lakhs)",
-          "prizeTitleEn": "10th Prize (10 Lakhs)",
-          "nameMy": "10th Prize (10 Lakhs)",
-          "nameEng": "10th Prize",
-          "prizeAmountMMK": 1000000,
-          "matchType": "full",
-          "digits": 5
-        },
-        {
-          "ticketMy": "ဃ-58450",
-          "ticketEng": "ဃ-58450",
-          "prizeTypeId": 15,
-          "prizeTitleMy": "10th Prize (10 Lakhs)",
-          "prizeTitleEn": "10th Prize (10 Lakhs)",
-          "nameMy": "10th Prize (10 Lakhs)",
-          "nameEng": "10th Prize",
-          "prizeAmountMMK": 1000000,
-          "matchType": "full",
-          "digits": 5
-        },
-        {
-          "ticketMy": "စ-75717",
-          "ticketEng": "စ-75717",
-          "prizeTypeId": 15,
-          "prizeTitleMy": "10th Prize (10 Lakhs)",
-          "prizeTitleEn": "10th Prize (10 Lakhs)",
-          "nameMy": "10th Prize (10 Lakhs)",
-          "nameEng": "10th Prize",
-          "prizeAmountMMK": 1000000,
-          "matchType": "full",
-          "digits": 5
-        },
-        {
-          "ticketMy": "င-88079",
-          "ticketEng": "င-88079",
-          "prizeTypeId": 15,
-          "prizeTitleMy": "10th Prize (10 Lakhs)",
-          "prizeTitleEn": "10th Prize (10 Lakhs)",
-          "nameMy": "10th Prize (10 Lakhs)",
-          "nameEng": "10th Prize",
-          "prizeAmountMMK": 1000000,
-          "matchType": "full",
-          "digits": 5
-        },
-        {
-          "ticketMy": "ည-2511",
-          "ticketEng": "ည-2511",
-          "prizeTypeId": 11,
-          "prizeTitleMy": "First 4 Digits Match (2 Lakhs)",
-          "prizeTitleEn": "First 4 Digits Match (2 Lakhs)",
-          "nameMy": "First 4 Digits Match (2 Lakhs)",
-          "nameEng": "First 4 Digits Match",
-          "prizeAmountMMK": 200000,
+          "prizeId": 10,
           "matchType": "prefix_full",
-          "digits": 4
+          "digits": 5,
+          "results": [
+            "ဍ-30546",
+            "စ-46301",
+            "ဍ-26212",
+            "ဋ-54707",
+            "ခ-33071",
+            "ဃ-70258",
+            "ဍ-43730"
+          ],
+          "flagged": false,
+          "rawLabel": "ရှှေ့ဂဏ ််း(၅)ေံု်းအစဉ်ေိုက်တ  - ကျပ်(၃)သိ",
+          "customTitle": "ရှှေ့ဂဏ ််း(၅)ေံု်းအစဉ်ေိုက်တ  - ကျပ်(၃)သိ"
         },
         {
-          "ticketMy": "ဆ-2723",
-          "ticketEng": "ဆ-2723",
-          "prizeTypeId": 11,
-          "prizeTitleMy": "First 4 Digits Match (2 Lakhs)",
-          "prizeTitleEn": "First 4 Digits Match (2 Lakhs)",
-          "nameMy": "First 4 Digits Match (2 Lakhs)",
-          "nameEng": "First 4 Digits Match",
-          "prizeAmountMMK": 200000,
+          "prizeId": 11,
           "matchType": "prefix_full",
-          "digits": 4
+          "digits": 4,
+          "results": [
+            "ဋ-1276",
+            "ဋ-6076",
+            "ည-7863",
+            "ဇ-2047",
+            "ဋ-7301",
+            "ည-8140",
+            "ဈ-3595",
+            "ည-7763",
+            "ည-8606",
+            "င-4348",
+            "ည-2728",
+            "ဆ-7328"
+          ],
+          "flagged": false,
+          "rawLabel": "ရှှေ့ဂဏ ််း(၄)ေံု်းအစဉ်ေိုက်တ  - ကျပ်(၂)သိ",
+          "customTitle": "ရှှေ့ဂဏ ််း(၄)ေံု်းအစဉ်ေိုက်တ  - ကျပ်(၂)သိ"
         },
         {
-          "ticketMy": "ဂ-6012",
-          "ticketEng": "ဂ-6012",
-          "prizeTypeId": 11,
-          "prizeTitleMy": "First 4 Digits Match (2 Lakhs)",
-          "prizeTitleEn": "First 4 Digits Match (2 Lakhs)",
-          "nameMy": "First 4 Digits Match (2 Lakhs)",
-          "nameEng": "First 4 Digits Match",
-          "prizeAmountMMK": 200000,
+          "prizeId": 12,
           "matchType": "prefix_full",
-          "digits": 4
+          "digits": 3,
+          "results": [
+            "ဂ-241",
+            "ခ-352",
+            "ဂ-115",
+            "ဇ-538",
+            "စ-693",
+            "ဆ-214",
+            "ဍ-550",
+            "ဍ-726",
+            "ဌ-218",
+            "ဃ-556",
+            "ဇ-847",
+            "ဌ-473"
+          ],
+          "flagged": false,
+          "rawLabel": "ရှှေ့ဂဏ ််း(၃)ေံု်းအစဉ်ေိုက်တ ကျပ်(၁)သိ",
+          "customTitle": "ရှှေ့ဂဏ ််း(၃)ေံု်းအစဉ်ေိုက်တ ကျပ်(၁)သိ"
         },
         {
-          "ticketMy": "ရ-6216",
-          "ticketEng": "ရ-6216",
-          "prizeTypeId": 11,
-          "prizeTitleMy": "First 4 Digits Match (2 Lakhs)",
-          "prizeTitleEn": "First 4 Digits Match (2 Lakhs)",
-          "nameMy": "First 4 Digits Match (2 Lakhs)",
-          "nameEng": "First 4 Digits Match",
-          "prizeAmountMMK": 200000,
+          "prizeId": 13,
           "matchType": "prefix_full",
-          "digits": 4
+          "digits": 2,
+          "results": [
+            "ဇ-15",
+            "ည-21",
+            "ည-21",
+            "ည-21",
+            "ခ-42",
+            "ဃ-57"
+          ],
+          "flagged": false,
+          "rawLabel": "ရှှေ့ဂဏ ််း(၂)ေံု်း  အစဉ်ေိုက်တ  - ကျပ်(၅)နသေ",
+          "customTitle": "ရှှေ့ဂဏ ််း(၂)ေံု်း  အစဉ်ေိုက်တ  - ကျပ်(၅)နသေ"
         },
         {
-          "ticketMy": "ဓ-123",
-          "ticketEng": "ဓ-123",
-          "prizeTypeId": 12,
-          "prizeTitleMy": "First 3 Digits Match (1 Lakhs)",
-          "prizeTitleEn": "First 3 Digits Match (1 Lakhs)",
-          "nameMy": "First 3 Digits Match (1 Lakhs)",
-          "nameEng": "First 3 Digits Match",
-          "prizeAmountMMK": 100000,
+          "prizeId": 14,
           "matchType": "prefix_full",
-          "digits": 3
-        },
-        {
-          "ticketMy": "ခ-146",
-          "ticketEng": "ခ-146",
-          "prizeTypeId": 12,
-          "prizeTitleMy": "First 3 Digits Match (1 Lakhs)",
-          "prizeTitleEn": "First 3 Digits Match (1 Lakhs)",
-          "nameMy": "First 3 Digits Match (1 Lakhs)",
-          "nameEng": "First 3 Digits Match",
-          "prizeAmountMMK": 100000,
-          "matchType": "prefix_full",
-          "digits": 3
-        },
-        {
-          "ticketMy": "အ-163",
-          "ticketEng": "အ-163",
-          "prizeTypeId": 12,
-          "prizeTitleMy": "First 3 Digits Match (1 Lakhs)",
-          "prizeTitleEn": "First 3 Digits Match (1 Lakhs)",
-          "nameMy": "First 3 Digits Match (1 Lakhs)",
-          "nameEng": "First 3 Digits Match",
-          "prizeAmountMMK": 100000,
-          "matchType": "prefix_full",
-          "digits": 3
-        },
-        {
-          "ticketMy": "စ-337",
-          "ticketEng": "စ-337",
-          "prizeTypeId": 12,
-          "prizeTitleMy": "First 3 Digits Match (1 Lakhs)",
-          "prizeTitleEn": "First 3 Digits Match (1 Lakhs)",
-          "nameMy": "First 3 Digits Match (1 Lakhs)",
-          "nameEng": "First 3 Digits Match",
-          "prizeAmountMMK": 100000,
-          "matchType": "prefix_full",
-          "digits": 3
-        },
-        {
-          "ticketMy": "ဂ-360",
-          "ticketEng": "ဂ-360",
-          "prizeTypeId": 12,
-          "prizeTitleMy": "First 3 Digits Match (1 Lakhs)",
-          "prizeTitleEn": "First 3 Digits Match (1 Lakhs)",
-          "nameMy": "First 3 Digits Match (1 Lakhs)",
-          "nameEng": "First 3 Digits Match",
-          "prizeAmountMMK": 100000,
-          "matchType": "prefix_full",
-          "digits": 3
-        },
-        {
-          "ticketMy": "ဇ-794",
-          "ticketEng": "ဇ-794",
-          "prizeTypeId": 12,
-          "prizeTitleMy": "First 3 Digits Match (1 Lakhs)",
-          "prizeTitleEn": "First 3 Digits Match (1 Lakhs)",
-          "nameMy": "First 3 Digits Match (1 Lakhs)",
-          "nameEng": "First 3 Digits Match",
-          "prizeAmountMMK": 100000,
-          "matchType": "prefix_full",
-          "digits": 3
-        },
-        {
-          "ticketMy": "လ-27",
-          "ticketEng": "လ-27",
-          "prizeTypeId": 13,
-          "prizeTitleMy": "First 2 Digits Match (1 Lakhs)",
-          "prizeTitleEn": "First 2 Digits Match (1 Lakhs)",
-          "nameMy": "First 2 Digits Match (1 Lakhs)",
-          "nameEng": "First 2 Digits Match",
-          "prizeAmountMMK": 50000,
-          "matchType": "prefix_full",
-          "digits": 2
-        },
-        {
-          "ticketMy": "ဝ-65",
-          "ticketEng": "ဝ-65",
-          "prizeTypeId": 13,
-          "prizeTitleMy": "First 2 Digits Match (1 Lakhs)",
-          "prizeTitleEn": "First 2 Digits Match (1 Lakhs)",
-          "nameMy": "First 2 Digits Match (1 Lakhs)",
-          "nameEng": "First 2 Digits Match",
-          "prizeAmountMMK": 50000,
-          "matchType": "prefix_full",
-          "digits": 2
-        },
-        {
-          "ticketMy": "စ-92",
-          "ticketEng": "စ-92",
-          "prizeTypeId": 13,
-          "prizeTitleMy": "First 2 Digits Match (1 Lakhs)",
-          "prizeTitleEn": "First 2 Digits Match (1 Lakhs)",
-          "nameMy": "First 2 Digits Match (1 Lakhs)",
-          "nameEng": "First 2 Digits Match",
-          "prizeAmountMMK": 50000,
-          "matchType": "prefix_full",
-          "digits": 2
-        },
-        {
-          "ticketMy": "ထ-33",
-          "ticketEng": "ထ-33",
-          "prizeTypeId": 13,
-          "prizeTitleMy": "First 2 Digits Match (1 Lakhs)",
-          "prizeTitleEn": "First 2 Digits Match (1 Lakhs)",
-          "nameMy": "First 2 Digits Match (1 Lakhs)",
-          "nameEng": "First 2 Digits Match",
-          "prizeAmountMMK": 50000,
-          "matchType": "prefix_full",
-          "digits": 2
-        },
-        {
-          "ticketMy": "ဝ-82",
-          "ticketEng": "ဝ-82",
-          "prizeTypeId": 13,
-          "prizeTitleMy": "First 2 Digits Match (1 Lakhs)",
-          "prizeTitleEn": "First 2 Digits Match (1 Lakhs)",
-          "nameMy": "First 2 Digits Match (1 Lakhs)",
-          "nameEng": "First 2 Digits Match",
-          "prizeAmountMMK": 50000,
-          "matchType": "prefix_full",
-          "digits": 2
-        },
-        {
-          "ticketMy": "ဈ-98",
-          "ticketEng": "ဈ-98",
-          "prizeTypeId": 13,
-          "prizeTitleMy": "First 2 Digits Match (1 Lakhs)",
-          "prizeTitleEn": "First 2 Digits Match (1 Lakhs)",
-          "nameMy": "First 2 Digits Match (1 Lakhs)",
-          "nameEng": "First 2 Digits Match",
-          "prizeAmountMMK": 50000,
-          "matchType": "prefix_full",
-          "digits": 2
-        },
-        {
-          "ticketMy": "ဖ-1",
-          "ticketEng": "ဖ-1",
-          "prizeTypeId": 14,
-          "prizeTitleMy": "First 1 Digit Match",
-          "prizeTitleEn": "First 1 Digit Match",
-          "nameMy": "First 1 Digit Match",
-          "nameEng": "First 1 Digit Match",
-          "prizeAmountMMK": 10000,
-          "matchType": "prefix_full",
-          "digits": 1
-        },
-        {
-          "ticketMy": "တ-3",
-          "ticketEng": "တ-3",
-          "prizeTypeId": 14,
-          "prizeTitleMy": "First 1 Digit Match",
-          "prizeTitleEn": "First 1 Digit Match",
-          "nameMy": "First 1 Digit Match",
-          "nameEng": "First 1 Digit Match",
-          "prizeAmountMMK": 10000,
-          "matchType": "prefix_full",
-          "digits": 1
-        },
-        {
-          "ticketMy": "တ-4",
-          "ticketEng": "တ-4",
-          "prizeTypeId": 14,
-          "prizeTitleMy": "First 1 Digit Match",
-          "prizeTitleEn": "First 1 Digit Match",
-          "nameMy": "First 1 Digit Match",
-          "nameEng": "First 1 Digit Match",
-          "prizeAmountMMK": 10000,
-          "matchType": "prefix_full",
-          "digits": 1
-        },
-        {
-          "ticketMy": "ဆ-9",
-          "ticketEng": "ဆ-9",
-          "prizeTypeId": 14,
-          "prizeTitleMy": "First 1 Digit Match",
-          "prizeTitleEn": "First 1 Digit Match",
-          "nameMy": "First 1 Digit Match",
-          "nameEng": "First 1 Digit Match",
-          "prizeAmountMMK": 10000,
-          "matchType": "prefix_full",
-          "digits": 1
-        },
-        {
-          "ticketMy": "မ-2",
-          "ticketEng": "မ-2",
-          "prizeTypeId": 14,
-          "prizeTitleMy": "First 1 Digit Match",
-          "prizeTitleEn": "First 1 Digit Match",
-          "nameMy": "First 1 Digit Match",
-          "nameEng": "First 1 Digit Match",
-          "prizeAmountMMK": 10000,
-          "matchType": "prefix_full",
-          "digits": 1
-        },
-        {
-          "ticketMy": "ရ-3",
-          "ticketEng": "ရ-3",
-          "prizeTypeId": 14,
-          "prizeTitleMy": "First 1 Digit Match",
-          "prizeTitleEn": "First 1 Digit Match",
-          "nameMy": "First 1 Digit Match",
-          "nameEng": "First 1 Digit Match",
-          "prizeAmountMMK": 10000,
-          "matchType": "prefix_full",
-          "digits": 1
-        },
-        {
-          "ticketMy": "ဟ-4",
-          "ticketEng": "ဟ-4",
-          "prizeTypeId": 14,
-          "prizeTitleMy": "First 1 Digit Match",
-          "prizeTitleEn": "First 1 Digit Match",
-          "nameMy": "First 1 Digit Match",
-          "nameEng": "First 1 Digit Match",
-          "prizeAmountMMK": 10000,
-          "matchType": "prefix_full",
-          "digits": 1
+          "digits": 1,
+          "results": [
+            "ဆ-8"
+          ],
+          "flagged": false,
+          "rawLabel": "ရှှေ့ဂဏ ််း(၁)ေံု်း  အစဉ်ေိုက်တ  - ကျပ်(၁)နသေ",
+          "customTitle": "ရှှေ့ဂဏ ််း(၁)ေံု်း  အစဉ်ေိုက်တ  - ကျပ်(၁)နသေ"
         }
-      ]
+      ],
+      "footerText": "၁ ၂၀၂၆ ခုနှစ်! ဖေဖေ်ဝါရီလ (၁)ရက်နေ့တွင် ကျင်းပသည့် (၈၃)ကြိမ်မြေ၁က် ကျပ် (၁၀၀၀)တန် အောင်ဘာလေသိန်းဆုထီဖွင့်ပွဲအတွက် ဆုမဲ ( ၁ဂ၇၃၃၈၀ ) ဆု ဖွင့်လှစ်ပေးခဲ့ပြီး စုစုပေါင်း ကံထူးရှင် ( ၁၇၃၃၈၀ ) ဦး ဖြစ်ပါသည်;\n၂[ ၂၀၂၆ ခုနှစ်! မတ်လ (၁)ရက်နေ့တွင် ဖွင့်လှစ်မည့် (၈၄)ကြိမ်မြောက် ကျပ်(၁၀၀၀)တန် အောင်ဘာလေသိနိးဆုထီဖွင့်ပွဲအတွက် အောင်ဘာလေသိန်းဆုထီဇါ ဖြနဲ့ဝေရောင်းချပေးမည့် အက္ခရာခများမှာ (က) အက္ခရာမှ (ဥ ) အက္ခရာထိ အက္ခရာ (၁၃)လုံး ဖြစ်ပါသည်#\n၃! (၈၃)မြောက်ကျပ်(၁၀၀၀)တနိ အောင်ဘာလေသိန်းဆုထီ ဆုမဲများအနက် ကျဝ် (၁၀)သိနိးနှင့်အထက် ဆုမဲများအား ထီဆုငွေထုတ်ပေးခြင်းကို (၂-၂-၂၀ ၂၆ ) ရက်နေ့မှစတင် ဆောင်ရွက်ပေးမည်ဖြစ်ပြီး ကျနိဆုမဲများအား ထီဆုငဠွေထုတ်ပေးခြင်းကို ( ၁၁ ၂- ၂၀ ၂၆ )\nရက်နေ့မှစတင်ရွ် လက်ခံဆောင်ရွက်ပေးမည်ဖြစ်ပါကြောင်းနှင့် ဆုငွေများကို ကိုယ်တိုင်ဖြစ်စေ တရားဝင် ကိုယ်စားလှယ်လွှဲစာဖြင့်ဖြစ်စေ; နိုင်ငံသားစိစစ်ရေးကတ် မူရင်း/မိတ္တူအိမ်ထောင်စုစာရင်းမူရင်း/မိတ္တူ, (၆)လ အတွင်~းရိုက်ကူးထားသည့် လိုင်စင်ဓာတ်ပုံ(၃)ပုံ တင်ပြရန်\nလိုအပ်ပါသည်\n၄ ယခု(၈၃)ကြိမ်မြောက်တွင် ဝေဝေဆာဆာပဒေသာဆုမဲများ (ယူနစ် )မှ ကျ်ငါးသောင်းဆုတွင် ပေါက်မဲနံပါတ်မှာည-၂၁ဖြင့် (၃)ကြိမ် ထွက်ပေါ်လာပါသဖြင့် ကံထူးသူသည် ကျပ် ၁၅၀၀၀ဝ/ ရရှိမည်ဖြစ်ပါသည်\nအောငိဘာလေသိန်းဆုဌသုခွဲ",
+      "lastModified": "2026-02-11T14:18:11.176686"
+    },
+    {
+      "date": "February 1 2026",
+      "drawDate": "2026-02-01",
+      "lotteryTypeId": 2,
+      "lotteryType": "online",
+      "term": 31,
+      "prizes": [
+        {
+          "prizeId": 2,
+          "matchType": "full",
+          "digits": 5,
+          "results": [
+            "တ-37618"
+          ],
+          "flagged": false,
+          "rawLabel": "Jackpot (Grand Prize)",
+          "customTitle": "Second Prize (2000 Lakhs)"
+        },
+        {
+          "prizeId": 4,
+          "matchType": "full",
+          "digits": 5,
+          "results": [
+            "ဖ-24345",
+            "က-86906"
+          ],
+          "flagged": false,
+          "rawLabel": "500 Lakhs (2 winners)",
+          "customTitle": "4th Prize (500 Lakhs)"
+        },
+        {
+          "prizeId": 6,
+          "matchType": "full",
+          "digits": 5,
+          "results": [
+            "ည-12026",
+            "ဗ-30931",
+            "သ-35335",
+            "ဂ-40092"
+          ],
+          "flagged": false,
+          "rawLabel": "200 Lakhs (4 winners)",
+          "customTitle": "6th Prize (200 Lakhs)"
+        },
+        {
+          "prizeId": 7,
+          "matchType": "full",
+          "digits": 5,
+          "results": [
+            "ဓ-21624",
+            "လ-22566",
+            "ခ-49844",
+            "သ-96282"
+          ],
+          "flagged": false,
+          "rawLabel": "100 Lakhs (4 winners)",
+          "customTitle": "7th Prize (100 Lakhs)"
+        },
+        {
+          "prizeId": 8,
+          "matchType": "full",
+          "digits": 5,
+          "results": [
+            "ည-21848",
+            "င-22636",
+            "ဝ-58691",
+            "ဓ-59506",
+            "ဂ-79941",
+            "ဘ-87222",
+            "ယ-92264",
+            "ပ-96622"
+          ],
+          "flagged": false,
+          "rawLabel": "50 Lakhs (8 winners)",
+          "customTitle": "8th Prize (50 Lakhs)"
+        },
+        {
+          "prizeId": 25,
+          "matchType": "full",
+          "digits": 5,
+          "results": [
+            "ဈ-10527",
+            "ဇ-21559",
+            "ဘ-38627",
+            "ဇ-45243",
+            "ည-54660",
+            "က-61379",
+            "လ-74013",
+            "ပ-82344",
+            "ဒ-89856"
+          ],
+          "flagged": false,
+          "rawLabel": "20 Lakhs (9 winners)",
+          "customTitle": "Consolation 2 Lakhs (20 Lakhs)"
+        },
+        {
+          "prizeId": 15,
+          "matchType": "full",
+          "digits": 5,
+          "results": [
+            "ဘ-10339",
+            "ဂ-11795",
+            "ရ-43665",
+            "န-48629",
+            "မ-48708",
+            "ပ-48935",
+            "တ-49309",
+            "ဃ-58450",
+            "စ-75717",
+            "င-88079"
+          ],
+          "flagged": false,
+          "rawLabel": "10 Lakhs (10 winners)",
+          "customTitle": "10th Prize (10 Lakhs)"
+        },
+        {
+          "prizeId": 11,
+          "matchType": "prefix_full",
+          "digits": 4,
+          "results": [
+            "ည-2511",
+            "ဆ-2723",
+            "ဂ-6012",
+            "ရ-6216"
+          ],
+          "flagged": false,
+          "rawLabel": "First 4 Digits Match (2 Lakhs)",
+          "customTitle": "First 4 Digits Match (2 Lakhs)"
+        },
+        {
+          "prizeId": 12,
+          "matchType": "prefix_full",
+          "digits": 3,
+          "results": [
+            "ဓ-123",
+            "ခ-146",
+            "အ-163",
+            "စ-337",
+            "ဂ-360",
+            "ဇ-794"
+          ],
+          "flagged": false,
+          "rawLabel": "First 3 Digits Match (1 Lakhs)",
+          "customTitle": "First 3 Digits Match (1 Lakhs)"
+        },
+        {
+          "prizeId": 13,
+          "matchType": "prefix_full",
+          "digits": 2,
+          "results": [
+            "လ-27",
+            "ဝ-65",
+            "စ-92",
+            "ထ-33",
+            "ဝ-82",
+            "ဈ-98"
+          ],
+          "flagged": false,
+          "rawLabel": "First 2 Digits Match (50K)",
+          "customTitle": "First 2 Digits Match (1 Lakhs)"
+        },
+        {
+          "prizeId": 14,
+          "matchType": "prefix_full",
+          "digits": 1,
+          "results": [
+            "ဖ-1",
+            "တ-3",
+            "တ-4",
+            "ဆ-9",
+            "မ-2",
+            "ရ-3",
+            "ဟ-4"
+          ],
+          "flagged": false,
+          "rawLabel": "First 1 Digit (10K)",
+          "customTitle": "First 1 Digit Match"
+        }
+      ],
+      "footerText": "",
+      "lastModified": "2026-02-11T14:20:47.365029"
     }
-  ]
+  ],
+  "totalDraws": 2,
+  "paperDraws": 1,
+  "onlineDraws": 1
 }
