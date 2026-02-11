@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2026-02-11T16:43:53.717330",
+  "exportedAt": "2026-02-11T17:02:13.153804",
   "prizeTypes": [
     {
       "id": 1,
@@ -15,7 +15,8 @@
       "defaultMatchType": "full",
       "defaultDigits": null,
       "defaultWinnerCount": 1,
-      "lotteryType": "paper"
+      "lotteryType": "paper",
+      "description": ""
     },
     {
       "id": 2,
@@ -30,7 +31,8 @@
       "defaultMatchType": "full",
       "defaultDigits": null,
       "defaultWinnerCount": null,
-      "lotteryType": "paper"
+      "lotteryType": "paper",
+      "description": ""
     },
     {
       "id": 3,
@@ -45,7 +47,8 @@
       "defaultMatchType": "full",
       "defaultDigits": null,
       "defaultWinnerCount": null,
-      "lotteryType": "paper"
+      "lotteryType": "paper",
+      "description": ""
     },
     {
       "id": 4,
@@ -60,7 +63,8 @@
       "defaultMatchType": "full",
       "defaultDigits": null,
       "defaultWinnerCount": null,
-      "lotteryType": "paper"
+      "lotteryType": "paper",
+      "description": ""
     },
     {
       "id": 5,
@@ -75,7 +79,8 @@
       "defaultMatchType": "full",
       "defaultDigits": null,
       "defaultWinnerCount": null,
-      "lotteryType": "paper"
+      "lotteryType": "paper",
+      "description": ""
     },
     {
       "id": 6,
@@ -90,7 +95,8 @@
       "defaultMatchType": "full",
       "defaultDigits": null,
       "defaultWinnerCount": null,
-      "lotteryType": "paper"
+      "lotteryType": "paper",
+      "description": ""
     },
     {
       "id": 7,
@@ -105,7 +111,8 @@
       "defaultMatchType": "full",
       "defaultDigits": null,
       "defaultWinnerCount": null,
-      "lotteryType": "paper"
+      "lotteryType": "paper",
+      "description": ""
     },
     {
       "id": 8,
@@ -120,7 +127,8 @@
       "defaultMatchType": "full",
       "defaultDigits": null,
       "defaultWinnerCount": null,
-      "lotteryType": "paper"
+      "lotteryType": "paper",
+      "description": ""
     },
     {
       "id": 9,
@@ -135,7 +143,8 @@
       "defaultMatchType": "full",
       "defaultDigits": null,
       "defaultWinnerCount": null,
-      "lotteryType": "paper"
+      "lotteryType": "paper",
+      "description": ""
     },
     {
       "id": 10,
@@ -150,7 +159,8 @@
       "defaultMatchType": "prefix_full",
       "defaultDigits": 5,
       "defaultWinnerCount": null,
-      "lotteryType": "paper"
+      "lotteryType": "paper",
+      "description": "အက္ခရာနှင့်ရှေ့ဂဏန်း(၅)လုံးအစဥ်လိုက်တူ"
     },
     {
       "id": 11,
@@ -164,7 +174,8 @@
       "defaultMatchType": "prefix_full",
       "defaultDigits": 4,
       "defaultWinnerCount": null,
-      "lotteryType": null
+      "lotteryType": null,
+      "description": "အက္ခရာနှင့်ရှေ့ဂဏန်း(4)လုံးအစဥ်လိုက်တူ"
     },
     {
       "id": 12,
@@ -178,7 +189,8 @@
       "defaultMatchType": "prefix_full",
       "defaultDigits": 3,
       "defaultWinnerCount": null,
-      "lotteryType": null
+      "lotteryType": null,
+      "description": "အက္ခရာနှင့်ရှေ့ဂဏန်း(၃)လုံးအစဥ်လိုက်တူ"
     },
     {
       "id": 13,
@@ -192,7 +204,8 @@
       "defaultMatchType": "prefix_full",
       "defaultDigits": 2,
       "defaultWinnerCount": null,
-      "lotteryType": null
+      "lotteryType": null,
+      "description": "အက္ခရာနှင့်ရှေ့ဂဏန်း(၂)လုံးအစဥ်လိုက်တူ"
     },
     {
       "id": 14,
@@ -206,7 +219,8 @@
       "defaultMatchType": "prefix_full",
       "defaultDigits": 1,
       "defaultWinnerCount": null,
-      "lotteryType": null
+      "lotteryType": null,
+      "description": "အက္ခရာနှင့်ရှေ့ဂဏန်း(၁)လုံးအစဥ်လိုက်တူ"
     },
     {
       "id": 15,
@@ -222,7 +236,8 @@
       "defaultMatchType": "full",
       "defaultDigits": null,
       "defaultWinnerCount": null,
-      "lotteryType": "paper"
+      "lotteryType": "paper",
+      "description": ""
     },
     {
       "id": 20,
@@ -237,7 +252,8 @@
       "defaultMatchType": "full",
       "defaultDigits": null,
       "defaultWinnerCount": 1,
-      "lotteryType": "online"
+      "lotteryType": "online",
+      "description": ""
     },
     {
       "id": 21,
@@ -252,7 +268,8 @@
       "defaultMatchType": "full",
       "defaultDigits": null,
       "defaultWinnerCount": 1,
-      "lotteryType": "online"
+      "lotteryType": "online",
+      "description": ""
     },
     {
       "id": 22,
@@ -267,7 +284,8 @@
       "defaultMatchType": "full",
       "defaultDigits": null,
       "defaultWinnerCount": null,
-      "lotteryType": "online"
+      "lotteryType": "online",
+      "description": ""
     },
     {
       "id": 23,
@@ -282,7 +300,8 @@
       "defaultMatchType": "full",
       "defaultDigits": null,
       "defaultWinnerCount": null,
-      "lotteryType": "online"
+      "lotteryType": "online",
+      "description": ""
     },
     {
       "id": 24,
@@ -297,7 +316,8 @@
       "defaultMatchType": "full",
       "defaultDigits": null,
       "defaultWinnerCount": null,
-      "lotteryType": "online"
+      "lotteryType": "online",
+      "description": ""
     },
     {
       "id": 25,
@@ -311,7 +331,8 @@
       "defaultMatchType": "full",
       "defaultDigits": null,
       "defaultWinnerCount": null,
-      "lotteryType": "online"
+      "lotteryType": "online",
+      "description": ""
     },
     {
       "id": 26,
@@ -324,7 +345,8 @@
       "defaultMatchType": "full",
       "defaultDigits": null,
       "defaultWinnerCount": null,
-      "lotteryType": "online"
+      "lotteryType": "online",
+      "description": ""
     },
     {
       "id": 27,
@@ -337,7 +359,8 @@
       "defaultMatchType": "full",
       "defaultDigits": null,
       "defaultWinnerCount": null,
-      "lotteryType": "online"
+      "lotteryType": "online",
+      "description": ""
     },
     {
       "id": 28,
@@ -345,7 +368,11 @@
       "titleEN": "Consolation 2 Lakhs",
       "rewardsMMK": 200000,
       "defaultMatchType": "full",
-      "defaultDigits": null
+      "defaultDigits": null,
+      "defaultWinnerCount": null,
+      "lotteryType": null,
+      "titles": [],
+      "description": ""
     },
     {
       "id": 29,
@@ -353,7 +380,11 @@
       "titleEN": "Consolation 1 Lakh",
       "rewardsMMK": 100000,
       "defaultMatchType": "full",
-      "defaultDigits": null
+      "defaultDigits": null,
+      "defaultWinnerCount": null,
+      "lotteryType": null,
+      "titles": [],
+      "description": ""
     },
     {
       "id": 30,
@@ -361,7 +392,11 @@
       "titleEN": "Consolation 50K",
       "rewardsMMK": 50000,
       "defaultMatchType": "full",
-      "defaultDigits": null
+      "defaultDigits": null,
+      "defaultWinnerCount": null,
+      "lotteryType": null,
+      "titles": [],
+      "description": ""
     }
   ],
   "draws": [
