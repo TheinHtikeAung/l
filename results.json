@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2026-02-15T14:02:57.354030",
+  "exportedAt": "2026-02-15T14:51:18.331965",
   "prizeTypes": [
     {
       "id": 1,
@@ -880,12 +880,12 @@
           ],
           "flagged": false,
           "rawLabel": "First 1 Digit (10K)",
-          "customTitle": "ဝေဝေဆာဆာ.ပဒေသာ ကျပ်(၁)သောင်းဆုများ"
+          "customTitle": "ဝေဝေဆာဆာ ပဒေသာ ကျပ်(၁)သောင်းဆုများ"
         }
       ],
       "footerText": "",
-      "lastModified": "2026-02-14T19:14:09.619605",
-      "pdfUrl": "https://www.ird.gov.mm/storage/lottery-prizings/6980148c631e1-During the 31th LOTTERY - Online.pdf"
+      "pdfUrl": "https://www.ird.gov.mm/storage/lottery-prizings/6980148c631e1-During the 31th LOTTERY - Online.pdf",
+      "lastModified": "2026-02-15T14:32:59.404370"
     }
   ],
   "totalDraws": 2,
